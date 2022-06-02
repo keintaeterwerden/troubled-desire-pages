@@ -17,18 +17,18 @@ jobs:
         run: |
           pnpm install
           
+          git fetch -ap
+          git checkout -b pages
+          git reset --hard master
+          
           node format-pages.js
           node prepare.js
           
           git config --global user.name "ktw-prepare"
           git config --global user.email "kenan@sly.mn"
-          
-          git commit -m "post-deploy-$(date "+%Y-%m-%d-%H:%M:%S")"
-          
-          git add -A
-          git fetch -ap
-          git checkout -b pages
-          git pull -r origin pages
 
-          git push -u origin pages
+          git add -A
+          git commit -m "post-deploy-$(date "+%Y-%m-%d-%H:%M:%S")"
+
+          git push -u origin -f pages
         working-directory: scripts
