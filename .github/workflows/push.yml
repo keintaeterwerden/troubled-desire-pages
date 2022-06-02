@@ -23,9 +23,12 @@ jobs:
           git config --global user.name "ktw-prepare"
           git config --global user.email "kenan@sly.mn"
           
-          git status
-          git add -A
-          git checkout -b pages
           git commit -m "post-deploy-$(date "+%Y-%m-%d-%H:%M:%S")"
+          
+          git add -A
+          git fetch -ap
+          git checkout -b pages
+          git pull -r origin pages
+
           git push -u origin pages
         working-directory: scripts
