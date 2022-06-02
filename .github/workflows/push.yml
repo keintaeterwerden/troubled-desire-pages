@@ -17,10 +17,6 @@ jobs:
         run: |
           pnpm install
           
-          git fetch -ap
-          git checkout -b pages
-          git reset --hard master
-          
           node format-pages.js
           node prepare.js
           
@@ -30,5 +26,5 @@ jobs:
           git add -A
           git commit -m "post-deploy-$(date "+%Y-%m-%d-%H:%M:%S")"
 
-          git push -u origin -f pages
+          git push -u origin -f master
         working-directory: scripts
