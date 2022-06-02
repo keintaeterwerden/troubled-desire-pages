@@ -1,4 +1,4 @@
-name: Tests
+name: Post-deploy
 
 on:
   push:
@@ -22,7 +22,7 @@ jobs:
           git config --global user.email "kenan@sly.mn"
           
           git status
-          git add manifest
+          git add -A
           git checkout -b pages
           git commit -m "post-deploy-$(date "+%Y-%m-%d-%H:%M:%S")"
           git push -u origin pages
