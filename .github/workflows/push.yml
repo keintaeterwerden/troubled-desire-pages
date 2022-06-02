@@ -19,6 +19,7 @@ jobs:
           
           node format-pages.js
           node prepare.js
+          node optimize-images.js
           
           git config --global user.name "ktw-prepare"
           git config --global user.email "kenan@sly.mn"
