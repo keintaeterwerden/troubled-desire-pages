@@ -17,3 +17,13 @@ jobs:
         working-directory: scripts
       - run: node prepare.js
         working-directory: scripts
+      - name: update file and push to remote
+        run: |
+          git config --global user.name "ktw-prepare"
+          git config --global user.email "kenan@sly.mn"
+          
+          git add manifest
+          git status
+          git checkout -b pages
+          git commit -m "post-deploy-$(date "+%Y-%m-%d-%H:%M:%S")"
+          git push -u origin pages
