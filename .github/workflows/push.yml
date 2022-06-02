@@ -16,6 +16,8 @@ jobs:
       - name: update file and push to remote
         run: |
           pnpm install
+          
+          node format-pages.js
           node prepare.js
           
           git config --global user.name "ktw-prepare"
