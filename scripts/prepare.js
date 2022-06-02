@@ -1,5 +1,13 @@
-const fs = require('fs');
-const mimes = new Map(require('./mimes.json'));
+import fs from 'fs';
+
+const mimes =
+    new Map(
+        JSON.parse(
+            fs
+                .readFileSync('./mimes.json')
+                .toString(),
+        ),
+    );
 
 const images =
     fs.readdirSync('../images')

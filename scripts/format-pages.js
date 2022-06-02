@@ -1,5 +1,5 @@
-const html_prettify = require('html-prettify');
-const fs = require('fs');
+import html_prettify from 'html-prettify';
+import fs from 'fs';
 
 const pages = fs.readdirSync('../pages')
     .filter(file =>
