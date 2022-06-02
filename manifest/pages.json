@@ -8,7 +8,7 @@
         },
         {
             "path": "de-about.html",
-            "size": 4396,
+            "size": 4378,
             "title": "about",
             "lang": "de"
         },
@@ -176,7 +176,7 @@
         },
         {
             "path": "en-home.html",
-            "size": 12847,
+            "size": 11960,
             "title": "home",
             "lang": "en"
         },
@@ -1043,7 +1043,7 @@
             [
                 {
                     "path": "de-about.html",
-                    "size": 4396,
+                    "size": 4378,
                     "title": "about"
                 },
                 {
@@ -1188,7 +1188,7 @@
                 },
                 {
                     "path": "en-home.html",
-                    "size": 12847,
+                    "size": 11960,
                     "title": "home"
                 },
                 {
