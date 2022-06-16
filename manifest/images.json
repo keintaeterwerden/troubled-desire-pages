@@ -1,5 +1,35 @@
 [
     {
+        "path": "assessment.jpeg",
+        "size": 22572,
+        "mime": "image/jpeg"
+    },
+    {
+        "path": "beier.png",
+        "size": 127434,
+        "mime": "image/png"
+    },
+    {
+        "path": "female1_nude.jpeg",
+        "size": 23677,
+        "mime": "image/jpeg"
+    },
+    {
+        "path": "female2_nude.jpeg",
+        "size": 22091,
+        "mime": "image/jpeg"
+    },
+    {
+        "path": "female3_nude.jpeg",
+        "size": 17560,
+        "mime": "image/jpeg"
+    },
+    {
+        "path": "here2help.png",
+        "size": 177139,
+        "mime": "image/png"
+    },
+    {
         "path": "hero-team-o.jpeg",
         "size": 28490,
         "mime": "image/jpeg"
@@ -7,6 +37,61 @@
     {
         "path": "hero-team.jpeg",
         "size": 28490,
+        "mime": "image/jpeg"
+    },
+    {
+        "path": "indian-1.jpeg",
+        "size": 88570,
+        "mime": "image/jpeg"
+    },
+    {
+        "path": "indian-2.jpeg",
+        "size": 83424,
+        "mime": "image/jpeg"
+    },
+    {
+        "path": "indian-3.jpeg",
+        "size": 29064,
+        "mime": "image/jpeg"
+    },
+    {
+        "path": "indian-4.jpeg",
+        "size": 77445,
+        "mime": "image/jpeg"
+    },
+    {
+        "path": "kein_taeter_werden.jpeg",
+        "size": 55401,
+        "mime": "image/jpeg"
+    },
+    {
+        "path": "male1_nude.jpeg",
+        "size": 19822,
+        "mime": "image/jpeg"
+    },
+    {
+        "path": "male2_nude.jpeg",
+        "size": 19654,
+        "mime": "image/jpeg"
+    },
+    {
+        "path": "male3_nude.jpeg",
+        "size": 18139,
+        "mime": "image/jpeg"
+    },
+    {
+        "path": "modules.jpg",
+        "size": 48131,
+        "mime": "image/jpeg"
+    },
+    {
+        "path": "poster.jpeg",
+        "size": 22117,
+        "mime": "image/jpeg"
+    },
+    {
+        "path": "u26.jpg",
+        "size": 101912,
         "mime": "image/jpeg"
     }
 ]
