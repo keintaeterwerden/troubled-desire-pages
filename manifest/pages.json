@@ -2,19 +2,19 @@
     "all": [
         {
             "path": "cz-home.html",
-            "size": 7095,
+            "size": 7080,
             "title": "home",
             "lang": "cz"
         },
         {
             "path": "de-about.html",
-            "size": 4378,
+            "size": 4363,
             "title": "about",
             "lang": "de"
         },
         {
             "path": "de-assessment.html",
-            "size": 2114,
+            "size": 2099,
             "title": "assessment",
             "lang": "de"
         },
@@ -26,7 +26,7 @@
         },
         {
             "path": "de-home.html",
-            "size": 53820,
+            "size": 53790,
             "title": "home",
             "lang": "de"
         },
@@ -134,7 +134,7 @@
         },
         {
             "path": "de-modules.html",
-            "size": 29120,
+            "size": 29105,
             "title": "modules",
             "lang": "de"
         },
@@ -158,13 +158,13 @@
         },
         {
             "path": "en-about.html",
-            "size": 3816,
+            "size": 3801,
             "title": "about",
             "lang": "en"
         },
         {
             "path": "en-assessment.html",
-            "size": 2030,
+            "size": 2015,
             "title": "assessment",
             "lang": "en"
         },
@@ -176,7 +176,7 @@
         },
         {
             "path": "en-home.html",
-            "size": 11961,
+            "size": 11931,
             "title": "home",
             "lang": "en"
         },
@@ -284,7 +284,7 @@
         },
         {
             "path": "en-modules.html",
-            "size": 28890,
+            "size": 28875,
             "title": "modules",
             "lang": "en"
         },
@@ -302,7 +302,7 @@
         },
         {
             "path": "es-about.html",
-            "size": 3756,
+            "size": 3741,
             "title": "about",
             "lang": "es"
         },
@@ -320,7 +320,7 @@
         },
         {
             "path": "es-home.html",
-            "size": 41077,
+            "size": 41047,
             "title": "home",
             "lang": "es"
         },
@@ -428,7 +428,7 @@
         },
         {
             "path": "es-modules.html",
-            "size": 28876,
+            "size": 28861,
             "title": "modules",
             "lang": "es"
         },
@@ -440,7 +440,7 @@
         },
         {
             "path": "fr-about.html",
-            "size": 4395,
+            "size": 4380,
             "title": "about",
             "lang": "fr"
         },
@@ -458,7 +458,7 @@
         },
         {
             "path": "fr-home.html",
-            "size": 44545,
+            "size": 44515,
             "title": "home",
             "lang": "fr"
         },
@@ -566,7 +566,7 @@
         },
         {
             "path": "fr-modules.html",
-            "size": 29877,
+            "size": 29862,
             "title": "modules",
             "lang": "fr"
         },
@@ -728,7 +728,7 @@
         },
         {
             "path": "mr-modules.html",
-            "size": 35569,
+            "size": 35554,
             "title": "modules",
             "lang": "mr"
         },
@@ -740,7 +740,7 @@
         },
         {
             "path": "pt-about.html",
-            "size": 4128,
+            "size": 4113,
             "title": "about",
             "lang": "pt"
         },
@@ -752,13 +752,13 @@
         },
         {
             "path": "pt-br-home.html",
-            "size": 42581,
+            "size": 42551,
             "title": "home",
             "lang": "pt-br"
         },
         {
             "path": "pt-br-modules.html",
-            "size": 29218,
+            "size": 29203,
             "title": "modules",
             "lang": "pt-br"
         },
@@ -770,7 +770,7 @@
         },
         {
             "path": "pt-home.html",
-            "size": 42455,
+            "size": 42425,
             "title": "home",
             "lang": "pt"
         },
@@ -878,7 +878,7 @@
         },
         {
             "path": "pt-modules.html",
-            "size": 29218,
+            "size": 29203,
             "title": "modules",
             "lang": "pt"
         },
@@ -890,7 +890,7 @@
         },
         {
             "path": "ru-about.html",
-            "size": 6913,
+            "size": 6898,
             "title": "about",
             "lang": "ru"
         },
@@ -908,7 +908,7 @@
         },
         {
             "path": "ru-home.html",
-            "size": 46652,
+            "size": 46622,
             "title": "home",
             "lang": "ru"
         },
@@ -1016,7 +1016,7 @@
         },
         {
             "path": "ru-modules.html",
-            "size": 32138,
+            "size": 32123,
             "title": "modules",
             "lang": "ru"
         },
@@ -1033,7 +1033,7 @@
             [
                 {
                     "path": "cz-home.html",
-                    "size": 7095,
+                    "size": 7080,
                     "title": "home"
                 }
             ]
@@ -1043,12 +1043,12 @@
             [
                 {
                     "path": "de-about.html",
-                    "size": 4378,
+                    "size": 4363,
                     "title": "about"
                 },
                 {
                     "path": "de-assessment.html",
-                    "size": 2114,
+                    "size": 2099,
                     "title": "assessment"
                 },
                 {
@@ -1058,7 +1058,7 @@
                 },
                 {
                     "path": "de-home.html",
-                    "size": 53820,
+                    "size": 53790,
                     "title": "home"
                 },
                 {
@@ -1148,7 +1148,7 @@
                 },
                 {
                     "path": "de-modules.html",
-                    "size": 29120,
+                    "size": 29105,
                     "title": "modules"
                 },
                 {
@@ -1173,12 +1173,12 @@
             [
                 {
                     "path": "en-about.html",
-                    "size": 3816,
+                    "size": 3801,
                     "title": "about"
                 },
                 {
                     "path": "en-assessment.html",
-                    "size": 2030,
+                    "size": 2015,
                     "title": "assessment"
                 },
                 {
@@ -1188,7 +1188,7 @@
                 },
                 {
                     "path": "en-home.html",
-                    "size": 11961,
+                    "size": 11931,
                     "title": "home"
                 },
                 {
@@ -1278,7 +1278,7 @@
                 },
                 {
                     "path": "en-modules.html",
-                    "size": 28890,
+                    "size": 28875,
                     "title": "modules"
                 },
                 {
@@ -1298,7 +1298,7 @@
             [
                 {
                     "path": "es-about.html",
-                    "size": 3756,
+                    "size": 3741,
                     "title": "about"
                 },
                 {
@@ -1313,7 +1313,7 @@
                 },
                 {
                     "path": "es-home.html",
-                    "size": 41077,
+                    "size": 41047,
                     "title": "home"
                 },
                 {
@@ -1403,7 +1403,7 @@
                 },
                 {
                     "path": "es-modules.html",
-                    "size": 28876,
+                    "size": 28861,
                     "title": "modules"
                 },
                 {
@@ -1418,7 +1418,7 @@
             [
                 {
                     "path": "fr-about.html",
-                    "size": 4395,
+                    "size": 4380,
                     "title": "about"
                 },
                 {
@@ -1433,7 +1433,7 @@
                 },
                 {
                     "path": "fr-home.html",
-                    "size": 44545,
+                    "size": 44515,
                     "title": "home"
                 },
                 {
@@ -1523,7 +1523,7 @@
                 },
                 {
                     "path": "fr-modules.html",
-                    "size": 29877,
+                    "size": 29862,
                     "title": "modules"
                 },
                 {
@@ -1668,7 +1668,7 @@
                 },
                 {
                     "path": "mr-modules.html",
-                    "size": 35569,
+                    "size": 35554,
                     "title": "modules"
                 },
                 {
@@ -1683,7 +1683,7 @@
             [
                 {
                     "path": "pt-about.html",
-                    "size": 4128,
+                    "size": 4113,
                     "title": "about"
                 },
                 {
@@ -1698,7 +1698,7 @@
                 },
                 {
                     "path": "pt-home.html",
-                    "size": 42455,
+                    "size": 42425,
                     "title": "home"
                 },
                 {
@@ -1788,7 +1788,7 @@
                 },
                 {
                     "path": "pt-modules.html",
-                    "size": 29218,
+                    "size": 29203,
                     "title": "modules"
                 },
                 {
@@ -1803,12 +1803,12 @@
             [
                 {
                     "path": "pt-br-home.html",
-                    "size": 42581,
+                    "size": 42551,
                     "title": "home"
                 },
                 {
                     "path": "pt-br-modules.html",
-                    "size": 29218,
+                    "size": 29203,
                     "title": "modules"
                 }
             ]
@@ -1818,7 +1818,7 @@
             [
                 {
                     "path": "ru-about.html",
-                    "size": 6913,
+                    "size": 6898,
                     "title": "about"
                 },
                 {
@@ -1833,7 +1833,7 @@
                 },
                 {
                     "path": "ru-home.html",
-                    "size": 46652,
+                    "size": 46622,
                     "title": "home"
                 },
                 {
@@ -1923,7 +1923,7 @@
                 },
                 {
                     "path": "ru-modules.html",
-                    "size": 32138,
+                    "size": 32123,
                     "title": "modules"
                 },
                 {
