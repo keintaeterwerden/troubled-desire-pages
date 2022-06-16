@@ -2,7 +2,7 @@
     "all": [
         {
             "path": "cz-home.html",
-            "size": 7080,
+            "size": 4162,
             "title": "home",
             "lang": "cz"
         },
@@ -26,25 +26,25 @@
         },
         {
             "path": "de-home.html",
-            "size": 53722,
+            "size": 14096,
             "title": "home",
             "lang": "de"
         },
         {
             "path": "de-imprint.html",
-            "size": 5496,
+            "size": 5493,
             "title": "imprint",
             "lang": "de"
         },
         {
             "path": "de-module-acceptance.html",
-            "size": 4294,
+            "size": 4295,
             "title": "module-acceptance",
             "lang": "de"
         },
         {
             "path": "de-module-empathy.html",
-            "size": 2206,
+            "size": 2207,
             "title": "module-empathy",
             "lang": "de"
         },
@@ -1033,7 +1033,7 @@
             [
                 {
                     "path": "cz-home.html",
-                    "size": 7080,
+                    "size": 4162,
                     "title": "home"
                 }
             ]
@@ -1058,22 +1058,22 @@
                 },
                 {
                     "path": "de-home.html",
-                    "size": 53722,
+                    "size": 14096,
                     "title": "home"
                 },
                 {
                     "path": "de-imprint.html",
-                    "size": 5496,
+                    "size": 5493,
                     "title": "imprint"
                 },
                 {
                     "path": "de-module-acceptance.html",
-                    "size": 4294,
+                    "size": 4295,
                     "title": "module-acceptance"
                 },
                 {
                     "path": "de-module-empathy.html",
-                    "size": 2206,
+                    "size": 2207,
                     "title": "module-empathy"
                 },
                 {
