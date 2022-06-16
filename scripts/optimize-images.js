@@ -16,7 +16,7 @@ import { readFileSync } from 'fs';
                 imageminPngquant({
                     quality: [0.6, 0.8],
                 }),
-                (mw => buf => buf.slice(8, 12).equals(Buffer.from("avif")) ? mw(buf) : buf)(imageminAvif()),
+                (mw => buf => buf.slice(8, 12).equals(Buffer.from('avif')) ? mw(buf) : buf)(imageminAvif()),
                 imageminWebp(),
                 imageminSvgo({
                     multipass: true,
