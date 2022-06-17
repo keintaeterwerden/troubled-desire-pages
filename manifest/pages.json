@@ -2,7 +2,7 @@
     "all": [
         {
             "path": "cz-home.html",
-            "size": 4162,
+            "size": 4163,
             "title": "home",
             "lang": "cz"
         },
@@ -26,7 +26,7 @@
         },
         {
             "path": "de-home.html",
-            "size": 14096,
+            "size": 14098,
             "title": "home",
             "lang": "de"
         },
@@ -1033,7 +1033,7 @@
             [
                 {
                     "path": "cz-home.html",
-                    "size": 4162,
+                    "size": 4163,
                     "title": "home"
                 }
             ]
@@ -1058,7 +1058,7 @@
                 },
                 {
                     "path": "de-home.html",
-                    "size": 14096,
+                    "size": 14098,
                     "title": "home"
                 },
                 {
