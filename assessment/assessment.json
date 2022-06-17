@@ -1,0 +1,3374 @@
+{
+    "lang": "en",
+    "sections": [
+        {
+            "id": "DEMOGRAPHIC-DATA",
+            "title": "DEMOGRAPHIC_DATA_TITLE",
+            "description": "DEMOGRAPHIC_DATA_DESCRIPTION",
+            "questions": [
+                {
+                    "id": "QUESTION_SOZ_DEM_AGE",
+                    "description": "QUESTION_SOZ_DEM_AGE_DESCRIPTION",
+                    "answers": [
+                        {
+                            "id": "ANSWER_SOZ_DEM_AGE_14_15"
+                        },
+                        {
+                            "id": "ANSWER_SOZ_DEM_AGE_16_18"
+                        },
+                        {
+                            "id": "ANSWER_SOZ_DEM_AGE_19_21"
+                        },
+                        {
+                            "id": "ANSWER_SOZ_DEM_AGE_22_24"
+                        },
+                        {
+                            "id": "ANSWER_SOZ_DEM_AGE_25_27"
+                        },
+                        {
+                            "id": "ANSWER_SOZ_DEM_AGE_28_30"
+                        },
+                        {
+                            "id": "ANSWER_SOZ_DEM_AGE_31_33"
+                        },
+                        {
+                            "id": "ANSWER_SOZ_DEM_AGE_34_36"
+                        },
+                        {
+                            "id": "ANSWER_SOZ_DEM_AGE_37_39"
+                        },
+                        {
+                            "id": "ANSWER_SOZ_DEM_AGE_40_42"
+                        },
+                        {
+                            "id": "ANSWER_SOZ_DEM_AGE_43_45"
+                        },
+                        {
+                            "id": "ANSWER_SOZ_DEM_AGE_46_48"
+                        },
+                        {
+                            "id": "ANSWER_SOZ_DEM_AGE_49_51"
+                        },
+                        {
+                            "id": "ANSWER_SOZ_DEM_AGE_52_54"
+                        },
+                        {
+                            "id": "ANSWER_SOZ_DEM_AGE_55_57"
+                        },
+                        {
+                            "id": "ANSWER_SOZ_DEM_AGE_58_60"
+                        },
+                        {
+                            "id": "ANSWER_SOZ_DEM_AGE_61_63"
+                        },
+                        {
+                            "id": "ANSWER_SOZ_DEM_AGE_64_66"
+                        },
+                        {
+                            "id": "ANSWER_SOZ_DEM_AGE_67_69"
+                        },
+                        {
+                            "id": "ANSWER_SOZ_DEM_AGE_70"
+                        }
+                    ],
+                    "type": "dropdown"
+                },
+                {
+                    "id": "QUESTION_SOZ_DEM_GENDER",
+                    "description": "QUESTION_SOZ_DEM_GENDER_DESCRIPTION",
+                    "answers": [
+                        {
+                            "id": "ANSWER_SOZ_DEM_GENDER_MALE"
+                        },
+                        {
+                            "id": "ANSWER_SOZ_DEM_GENDER_FEMALE"
+                        },
+                        {
+                            "id": "ANSWER_SOZ_DEM_GENDER_OTHER"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_SOZ_DEM_WHERE",
+                    "description": "QUESTION_SOZ_DEM_WHERE_DESCRIPTION",
+                    "answers": [
+                        {
+                            "id": "ANSWER_SOZ_DEM_WHERE_CITY"
+                        },
+                        {
+                            "id": "ANSWER_SOZ_DEM_WHERE_TOWN"
+                        },
+                        {
+                            "id": "ANSWER_SOZ_DEM_WHERE_VILLAGE"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_SOZ_DEM_EDU",
+                    "description": "QUESTION_SOZ_DEM_EDU_DESCRIPTION",
+                    "answers": [
+                        {
+                            "id": "ANSWER_SOZ_DEM_EDU_NO"
+                        },
+                        {
+                            "id": "ANSWER_SOZ_DEM_EDU_SCHOOL"
+                        },
+                        {
+                            "id": "ANSWER_SOZ_DEM_EDU_TRAINING"
+                        },
+                        {
+                            "id": "ANSWER_SOZ_DEM_EDU_PROFESSIONAL"
+                        },
+                        {
+                            "id": "ANSWER_SOZ_DEM_EDU_UNIVERTIY"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_SOZ_DEM_OCCU",
+                    "description": "QUESTION_SOZ_DEM_OCCU_DESCRIPTION",
+                    "answers": [
+                        {
+                            "id": "ANSWER_SOZ_DEM_OCCU_STUDENT"
+                        },
+                        {
+                            "id": "ANSWER_SOZ_DEM_OCCU_HOMEMAKER"
+                        },
+                        {
+                            "id": "ANSWER_SOZ_DEM_OCCU_FULL_TIME_WORKING"
+                        },
+                        {
+                            "id": "ANSWER_SOZ_DEM_OCCU_PART_TIME_WORKING"
+                        },
+                        {
+                            "id": "ANSWER_SOZ_DEM_OCCU_SELFEMPLOYED"
+                        },
+                        {
+                            "id": "ANSWER_SOZ_DEM_OCCU_UNEMPLOYED"
+                        },
+                        {
+                            "id": "ANSWER_SOZ_DEM_OCCU_UNABLE_TO_WORK"
+                        },
+                        {
+                            "id": "ANSWER_SOZ_DEM_OCCU_RETIRED"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_SOZ_DEM_REL",
+                    "description": "QUESTION_SOZ_DEM_REL_DESCRIPTION",
+                    "answers": [
+                        {
+                            "id": "ANSWER_SOZ_DEM_REL_MARRIED"
+                        },
+                        {
+                            "id": "ANSWER_SOZ_DEM_REL_STABLE_RELATIONSHIP"
+                        },
+                        {
+                            "id": "ANSWER_SOZ_DEM_REL_OPEN_RELATIONSHIP"
+                        },
+                        {
+                            "id": "ANSWER_SOZ_DEM_REL_SINGLE"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_SOZ_DEM_REL_EVER",
+                    "description": "QUESTION_SOZ_DEM_REL_EVER_DESCRIPTION",
+                    "answers": [
+                        {
+                            "id": "ANSWER_SOZ_DEM_REL_EVER_NO"
+                        },
+                        {
+                            "id": "ANSWER_SOZ_DEM_REL_EVER_YES"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_SOZ_DEM_REL_SATIS",
+                    "description": "QUESTION_SOZ_DEM_REL_SATIS_DESCRIPTION",
+                    "answers": [
+                        {
+                            "id": "ANSWER_SOZ_DEM_REL_SATIS_DONTHAVE"
+                        },
+                        {
+                            "id": "ANSWER_SOZ_DEM_REL_SATIS_NO"
+                        },
+                        {
+                            "id": "ANSWER_SOZ_DEM_REL_SATIS_YES"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_SOZ_DEM_CHILD_CON",
+                    "description": "QUESTION_SOZ_DEM_CHILD_CON_DESCRIPTION",
+                    "answers": [
+                        {
+                            "id": "ANSWER_SOZ_DEM_CHILD_CON_NO",
+                            "jump_to": "QUESTION_SOZ_DEM_CHILD_CON_INTENT"
+                        },
+                        {
+                            "id": "ANSWER_SOZ_DEM_CHILD_CON_YES"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_SOZ_DEM_CHILD_CON_SIT",
+                    "description": "QUESTION_SOZ_DEM_CHILD_CON_SIT_DESCRIPTION",
+                    "type": "multi",
+                    "answers": [
+                        {
+                            "id": "ANSWER_SOZ_DEM_CHILD_CON_SIT_OWN_CHILDREN"
+                        },
+                        {
+                            "id": "ANSWER_SOZ_DEM_CHILD_CON_SIT_FAMILY_SURROUNDINGS"
+                        },
+                        {
+                            "id": "ANSWER_SOZ_DEM_CHILD_CON_SIT_JOB_SURROUNDINGS"
+                        },
+                        {
+                            "id": "ANSWER_SOZ_DEM_CHILD_CON_SIT_ONLINE"
+                        },
+                        {
+                            "id": "ANSWER_SOZ_DEM_CHILD_CON_SIT_OTHER"
+                        }
+                    ]
+                },
+                {
+                    "id": "QUESTION_SOZ_DEM_CHILD_CON_INTENT",
+                    "description": "QUESTION_SOZ_DEM_CHILD_CON_INTENT_DESCRIPTION",
+                    "answers": [
+                        {
+                            "id": "ANSWER_SOZ_DEM_CHILD_CON_INTENT_NO"
+                        },
+                        {
+                            "id": "ANSWER_SOZ_DEM_CHILD_CON_INTENT_YES"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_SOZ_DEM_CHILD_CARE",
+                    "description": "QUESTION_SOZ_DEM_CHILD_CARE_DESCRIPTION",
+                    "answers": [
+                        {
+                            "jump_to": "QUESTION_SOZ_DEM_LIV_SIT",
+                            "id": "ANSWER_SOZ_DEM_CHILD_CARE_NO"
+                        },
+                        {
+                            "id": "ANSWER_SOZ_DEM_CHILD_CARE_YES"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_SOZ_DEM_CHILD_CARE_SPECIFY",
+                    "description": "QUESTION_SOZ_DEM_CHILD_CARE_SPECIFY_DESCRIPTION",
+                    "answers": {
+                        "id": "SOZ_DEM_CHILD_CARE_specify_count"
+                    },
+                    "type": "number",
+                    "min": 0,
+                    "max": 999
+                },
+                {
+                    "id": "QUESTION_SOZ_DEM_LIV_SIT",
+                    "description": "QUESTION_SOZ_DEM_LIV_SIT_DESCRIPTION",
+                    "answers": [
+                        {
+                            "id": "ANSWER_SOZ_DEM_LIV_SIT_SHARED_HOUSEHOLD"
+                        },
+                        {
+                            "id": "ANSWER_SOZ_DEM_LIV_SIT_ALONE"
+                        },
+                        {
+                            "id": "ANSWER_SOZ_DEM_LIV_SIT_SHARED_APARTMENT"
+                        },
+                        {
+                            "id": "ANSWER_SOZ_DEM_LIV_SIT_PARENTS_OR_SIBLINGS"
+                        },
+                        {
+                            "id": "ANSWER_SOZ_DEM_LIV_SIT_CHILDREN"
+                        },
+                        {
+                            "id": "ANSWER_SOZ_DEM_LIV_SIT_ASSISTED_LIVING"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_SOZ_DEM_RELI",
+                    "description": "QUESTION_SOZ_DEM_RELI_DESCRIPTION",
+                    "answers": [
+                        {
+                            "id": "ANSWER_SOZ_DEM_RELI_YES"
+                        },
+                        {
+                            "jump_to": "QUESTION_PREF_ABSTRACT",
+                            "id": "ANSWER_SOZ_DEM_RELI_NO"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_SOZ_DEM_RELI_SPECIFY",
+                    "description": "QUESTION_SOZ_DEM_RELI_SPECIFY_DESCRIPTION",
+                    "answers": {
+                        "id": "QUESTION_SOZ_DEM_RELI_specify_txt"
+
+                    },
+                    "type": "text"
+                }
+            ]
+        },
+        {
+            "id": "SEXUAL-PREFERENCE",
+            "title": "SEXUAL_PREFERENCE_TITLE",
+            "description": "SEXUAL_PREFERENCE_DESCRIPTION",
+            "questions": [
+                {
+                    "id": "QUESTION_PREF_ABSTRACT",
+                    "description": "QUESTION_PREF_ABSTRACT_DESCRIPTION",
+                    "answers": [
+                        {
+                            "id": "ANSWER_PREF_ABSTRACT_OK"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_PREF_F1",
+                    "description": "QUESTION_PREF_F1_DESCRIPTION",
+                    "group": {
+                        "title": "GROUP_PREF_F1_TITLE",
+                        "description": "GROUP_PREF_F1_DESCRIPTION",
+                        "image": "/images/female1_nude.jpeg"
+                    },
+                    "answers": [
+                        {
+                            "jump_to": "QUESTION_PREF_M1",
+                            "id": "ANSWER_PREF_F1_NO"
+                        },
+                        {
+                            "id": "ANSWER_PREF_F1_YES"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_PREF_F1_TIME",
+                    "description": "QUESTION_PREF_F1_TIME_DESCRIPTION",
+                    "group": {
+                        "title": "GROUP_PREF_F1_TITLE",
+                        "description": "GROUP_PREF_F1_DESCRIPTION",
+                        "image": "/images/female1_nude.jpeg"
+                    },
+                    "answers": [
+                        {
+                            "jump_to": "QUESTION_PREF_M1",
+                            "id": "ANSWER_PREF_F1_TIME_NO"
+                        },
+                        {
+                            "id": "ANSWER_PREF_F1_TIME_YES"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_PREF_F1_DUR",
+                    "description": "QUESTION_PREF_F1_DUR_DESCRIPTION",
+                    "group": {
+                        "title": "GROUP_PREF_F1_TITLE",
+                        "description": "GROUP_PREF_F1_DESCRIPTION",
+                        "image": "/images/female1_nude.jpeg"
+                    },
+                    "answers": [
+                        {
+                            "id": "ANSWER_PREF_F1_DUR_PUBERTY"
+                        },
+                        {
+                            "id": "ANSWER_PREF_F1_DUR_NUMBER",
+                            "type": "number",
+                            "min": 0,
+                            "max": 99
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_PREF_F1_DIS",
+                    "description": "QUESTION_PREF_F1_DIS_DESCRIPTION",
+                    "group": {
+                        "title": "GROUP_PREF_F1_TITLE",
+                        "description": "GROUP_PREF_F1_DESCRIPTION",
+                        "image": "/images/female1_nude.jpeg"
+                    },
+                    "answers": [
+                        {
+                            "id": "ANSWER_PREF_F1_DIS_NO"
+                        },
+                        {
+                            "id": "ANSWER_PREF_F1_DIS_YES"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_PREF_F1_TR",
+                    "description": "QUESTION_PREF_F1_TR_DESCRIPTION",
+                    "group": {
+                        "title": "GROUP_PREF_F1_TITLE",
+                        "description": "GROUP_PREF_F1_DESCRIPTION",
+                        "image": "/images/female1_nude.jpeg"
+                    },
+                    "answers": [
+                        {
+                            "id": "ANSWER_PREF_F1_TR_NO"
+                        },
+                        {
+                            "id": "ANSWER_PREF_F1_TR_YES"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_PREF_M1",
+                    "description": "QUESTION_PREF_M1_DESCRIPTION",
+                    "group": {
+                        "title": "GROUP_PREF_M1_TITLE",
+                        "description": "GROUP_PREF_M1_DESCRIPTION",
+                        "image": "/images/male1_nude.jpeg"
+                    },
+                    "answers": [
+                        {
+                            "jump_to": "QUESTION_PREF_F2_3",
+                            "id": "ANSWER_PREF_M1_NO"
+                        },
+                        {
+                            "id": "ANSWER_PREF_M1_YES"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_PREF_M1_TIME",
+                    "description": "QUESTION_PREF_M1_TIME_DESCRIPTION",
+                    "group": {
+                        "title": "GROUP_PREF_M1_TITLE",
+                        "description": "GROUP_PREF_M1_DESCRIPTION",
+                        "image": "/images/male1_nude.jpeg"
+                    },
+                    "answers": [
+                        {
+                            "id": "ANSWER_PREF_M1_TIME_NO",
+                            "jump_to": "QUESTION_PREF_F2_3"
+                        },
+                        {
+                            "id": "ANSWER_PREF_M1_TIME_YES"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_PREF_M1_DUR",
+                    "description": "QUESTION_PREF_M1_DUR_DESCRIPTION",
+                    "group": {
+                        "title": "GROUP_PREF_M1_TITLE",
+                        "description": "GROUP_PREF_M1_DESCRIPTION",
+                        "image": "/images/male1_nude.jpeg"
+                    },
+                    "answers": [
+                        {
+                            "id": "ANSWER_PREF_M1_DUR_PUBERTY"
+                        },
+                        {
+                            "id": "ANSWER_PREF_M1_DUR_NUMBER",
+                            "type": "number",
+                            "min": 0,
+                            "max": 99
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_PREF_M1_DIS",
+                    "description": "QUESTION_PREF_M1_DIS_DESCRIPTION",
+                    "group": {
+                        "title": "GROUP_PREF_M1_TITLE",
+                        "description": "GROUP_PREF_M1_DESCRIPTION",
+                        "image": "/images/male1_nude.jpeg"
+                    },
+                    "answers": [
+                        {
+                            "id": "ANSWER_PREF_M1_DIS_NO"
+                        },
+                        {
+                            "id": "ANSWER_PREF_M1_DIS_YES"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_PREF_M1_TR",
+                    "description": "QUESTION_PREF_M1_TR_DESCRIPTION",
+                    "group": {
+                        "title": "GROUP_PREF_M1_TITLE",
+                        "description": "GROUP_PREF_M1_DESCRIPTION",
+                        "image": "/images/male1_nude.jpeg"
+                    },
+                    "answers": [
+                        {
+                            "id": "ANSWER_PREF_M1_TR_NO"
+                        },
+                        {
+                            "id": "ANSWER_PREF_M1_TR_YES"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_PREF_F2_3",
+                    "description": "QUESTION_PREF_F2_3_DESCRIPTION",
+                    "group": {
+                        "title": "GROUP_PREF_F2_TITLE",
+                        "description": "GROUP_PREF_F2_DESCRIPTION",
+                        "image": "/images/female2_nude.jpeg"
+                    },
+                    "answers": [
+                        {
+                            "id": "ANSWER_PREF_F2_3_NO",
+                            "jump_to": "QUESTION_PREF_M2_3"
+                        },
+                        {
+                            "id": "ANSWER_PREF_F2_3_YES"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_PREF_F2_3_TIME",
+                    "description": "QUESTION_PREF_F2_3_TIME_DESCRIPTION",
+                    "group": {
+                        "title": "GROUP_PREF_F2_TITLE",
+                        "description": "GROUP_PREF_F2_DESCRIPTION",
+                        "image": "/images/female2_nude.jpeg"
+                    },
+                    "answers": [
+                        {
+                            "id": "ANSWER_PREF_F2_3_TIME_NO",
+                            "jump_to": "QUESTION_PREF_M2_3"
+                        },
+                        {
+                            "id": "ANSWER_PREF_F2_3_TIME_YES"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_PREF_F2_3_DUR",
+                    "description": "QUESTION_PREF_F2_3_DUR_DESCRIPTION",
+                    "group": {
+                        "title": "GROUP_PREF_F2_TITLE",
+                        "description": "GROUP_PREF_F2_DESCRIPTION",
+                        "image": "/images/female2_nude.jpeg"
+                    },
+                    "answers": [
+                        {
+                            "id": "ANSWER_PREF_F2_3_DUR_PUBERTY"
+                        },
+                        {
+                            "id": "ANSWER_PREF_F2_3_DUR_NUMBER",
+                            "type": "number",
+                            "min": 0,
+                            "max": 99
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_PREF_F2_3_DIS",
+                    "description": "QUESTION_PREF_F2_3_DIS_DESCRIPTION",
+                    "group": {
+                        "title": "GROUP_PREF_F2_TITLE",
+                        "description": "GROUP_PREF_F2_DESCRIPTION",
+                        "image": "/images/female2_nude.jpeg"
+                    },
+                    "answers": [
+                        {
+                            "id": "ANSWER_PREF_F2_3_DIS_NO"
+                        },
+                        {
+                            "id": "ANSWER_PREF_F2_3_DIS_YES"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_PREF_F2_3_TR",
+                    "description": "QUESTION_PREF_F2_3_TR_DESCRIPTION",
+                    "group": {
+                        "title": "GROUP_PREF_F2_TITLE",
+                        "description": "GROUP_PREF_F2_DESCRIPTION",
+                        "image": "/images/female2_nude.jpeg"
+                    },
+                    "answers": [
+                        {
+                            "id": "ANSWER_PREF_F2_3_TR_NO"
+                        },
+                        {
+                            "id": "ANSWER_PREF_F2_3_TR_YES"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_PREF_M2_3",
+                    "description": "QUESTION_PREF_M2_3_DESCRIPTION",
+                    "group": {
+                        "title": "GROUP_PREF_M2_TITLE",
+                        "description": "GROUP_PREF_M2_DESCRIPTION",
+                        "image": "/images/male2_nude.jpeg"
+                    },
+                    "answers": [
+                        {
+                            "jump_to": "QUESTION_PREF_F4_5",
+                            "id": "ANSWER_PREF_M2_3_NO"
+                        },
+                        {
+                            "id": "ANSWER_PREF_M2_3_YES"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_PREF_M2_3_TIME",
+                    "description": "QUESTION_PREF_M2_3_TIME_DESCRIPTION",
+                    "group": {
+                        "title": "GROUP_PREF_M2_TITLE",
+                        "description": "GROUP_PREF_M2_DESCRIPTION",
+                        "image": "/images/male2_nude.jpeg"
+                    },
+                    "answers": [
+                        {
+                            "jump_to": "QUESTION_PREF_F4_5",
+                            "id": "ANSWER_PREF_M2_3_TIME_NO"
+                        },
+                        {
+                            "id": "ANSWER_PREF_M2_3_TIME_YES"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_PREF_M2_3_DUR",
+                    "description": "QUESTION_PREF_M2_3_DUR_DESCRIPTION",
+                    "group": {
+                        "title": "GROUP_PREF_M2_TITLE",
+                        "description": "GROUP_PREF_M2_DESCRIPTION",
+                        "image": "/images/male2_nude.jpeg"
+                    },
+                    "answers": [
+                        {
+                            "id": "ANSWER_PREF_M2_3_DUR_PUBERTY"
+                        },
+                        {
+                            "id": "ANSWER_PREF_M2_3_DUR_NUMBER",
+                            "type": "number",
+                            "min": 0,
+                            "max": 99
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_PREF_M2_3_DIS",
+                    "description": "QUESTION_PREF_M2_3_DIS_DESCRIPTION",
+                    "group": {
+                        "title": "GROUP_PREF_M2_TITLE",
+                        "description": "GROUP_PREF_M2_DESCRIPTION",
+                        "image": "/images/male2_nude.jpeg"
+                    },
+                    "answers": [
+                        {
+                            "id": "ANSWER_PREF_M2_3_DIS_NO"
+                        },
+                        {
+                            "id": "ANSWER_PREF_M2_3_DIS_YES"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_PREF_M2_3_TR",
+                    "description": "QUESTION_PREF_M2_3_TR_DESCRIPTION",
+                    "group": {
+                        "title": "GROUP_PREF_M2_TITLE",
+                        "description": "GROUP_PREF_M2_DESCRIPTION",
+                        "image": "/images/male2_nude.jpeg"
+                    },
+                    "answers": [
+                        {
+                            "id": "ANSWER_PREF_M2_3_TR_NO"
+                        },
+                        {
+                            "id": "ANSWER_PREF_M2_3_TR_YES"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_PREF_F4_5",
+                    "description": "QUESTION_PREF_F4_5_DESCRIPTION",
+                    "group": {
+                        "title": "GROUP_PREF_F4_5_TITLE",
+                        "description": "GROUP_PREF_F4_5_DESCRIPTION",
+                        "image": "/images/female3_nude.jpeg"
+                    },
+                    "answers": [
+                        {
+                            "jump_to": "QUESTION_PREF_M4_5",
+                            "id": "ANSWER_PREF_F4_5_NO"
+                        },
+                        {
+                            "id": "ANSWER_PREF_F4_5_YES"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_PREF_F4_5_TIME",
+                    "description": "QUESTION_PREF_F4_5_TIME_DESCRIPTION",
+                    "group": {
+                        "title": "GROUP_PREF_F4_5_TITLE",
+                        "description": "GROUP_PREF_F4_5_DESCRIPTION",
+                        "image": "/images/female3_nude.jpeg"
+                    },
+                    "answers": [
+                        {
+                            "jump_to": "QUESTION_PREF_M4_5",
+                            "id": "ANSWER_PREF_F4_5_TIME_NO"
+                        },
+                        {
+                            "id": "ANSWER_PREF_F4_5_TIME_YES"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_PREF_F4_5_DUR",
+                    "description": "QUESTION_PREF_F4_5_DUR_DESCRIPTION",
+                    "group": {
+                        "title": "GROUP_PREF_F4_5_TITLE",
+                        "description": "GROUP_PREF_F4_5_DESCRIPTION",
+                        "image": "/images/female3_nude.jpeg"
+                    },
+                    "answers": [
+                        {
+                            "id": "ANSWER_PREF_F4_5_DUR_PUBERTY"
+                        },
+                        {
+                            "id": "ANSWER_PREF_F4_5_DUR_NUMBER",
+                            "type": "number",
+                            "min": 0,
+                            "max": 99
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_PREF_F4_5_DIS",
+                    "description": "QUESTION_PREF_F4_5_DIS_DESCRIPTION",
+                    "group": {
+                        "title": "GROUP_PREF_F4_5_TITLE",
+                        "description": "GROUP_PREF_F4_5_DESCRIPTION",
+                        "image": "/images/female3_nude.jpeg"
+                    },
+                    "answers": [
+                        {
+                            "id": "ANSWER_PREF_F4_5_DIS_NO"
+                        },
+                        {
+                            "id": "ANSWER_PREF_F4_5_DIS_YES"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_PREF_F4_5_TR",
+                    "description": "QUESTION_PREF_F4_5_TR_DESCRIPTION",
+                    "group": {
+                        "title": "GROUP_PREF_F4_5_TITLE",
+                        "description": "GROUP_PREF_F4_5_DESCRIPTION",
+                        "image": "/images/female3_nude.jpeg"
+                    },
+                    "answers": [
+                        {
+                            "id": "ANSWER_PREF_F4_5_TR_NO"
+                        },
+                        {
+                            "id": "ANSWER_PREF_F4_5_TR_YES"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_PREF_M4_5",
+                    "description": "QUESTION_PREF_M4_5_DESCRIPTION",
+                    "group": {
+                        "title": "GROUP_PREF_M4_TITLE",
+                        "description": "GROUP_PREF_M4_DESCRIPTION",
+                        "image": "/images/male3_nude.jpeg"
+                    },
+                    "answers": [
+                        {
+                            "jump_to": "QUESTION_PREF_FAN_ACT_PLAY",
+                            "id": "ANSWER_PREF_M4_5_NO"
+                        },
+                        {
+                            "id": "ANSWER_PREF_M4_5_YES"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_PREF_M4_5_TIME",
+                    "description": "QUESTION_PREF_M4_5_TIME_DESCRIPTION",
+                    "group": {
+                        "title": "GROUP_PREF_M4_TITLE",
+                        "description": "GROUP_PREF_M4_DESCRIPTION",
+                        "image": "/images/male3_nude.jpeg"
+                    },
+                    "answers": [
+                        {
+                            "jump_to": "QUESTION_PREF_FAN_ACT_PLAY",
+                            "id": "ANSWER_PREF_M4_5_TIME_NO"
+                        },
+                        {
+                            "id": "ANSWER_PREF_M4_5_TIME_YES"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_PREF_M4_5_DUR",
+                    "description": "QUESTION_PREF_M4_5_DUR_DESCRIPTION",
+                    "group": {
+                        "title": "GROUP_PREF_M4_TITLE",
+                        "description": "GROUP_PREF_M4_DESCRIPTION",
+                        "image": "/images/male3_nude.jpeg"
+                    },
+                    "answers": [
+                        {
+                            "id": "ANSWER_PREF_M4_5_DUR_PUBERTY"
+                        },
+                        {
+                            "id": "ANSWER_PREF_M4_5_DUR_NUMBER",
+                            "type": "number",
+                            "min": 0,
+                            "max": 99
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_PREF_M4_5_DIS",
+                    "description": "QUESTION_PREF_M4_5_DIS_DESCRIPTION",
+                    "group": {
+                        "title": "GROUP_PREF_M4_TITLE",
+                        "description": "GROUP_PREF_M4_DESCRIPTION",
+                        "image": "/images/male3_nude.jpeg"
+                    },
+                    "answers": [
+                        {
+                            "id": "ANSWER_PREF_M4_5_DIS_NO"
+                        },
+                        {
+                            "id": "ANSWER_PREF_M4_5_DIS_YES"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_PREF_M4_5_TR",
+                    "description": "QUESTION_PREF_M4_5_TR_DESCRIPTION",
+                    "group": {
+                        "title": "GROUP_PREF_M4_TITLE",
+                        "description": "GROUP_PREF_M4_DESCRIPTION",
+                        "image": "/images/male3_nude.jpeg"
+                    },
+                    "answers": [
+                        {
+                            "id": "ANSWER_PREF_M4_5_TR_NO"
+                        },
+                        {
+                            "id": "ANSWER_PREF_M4_5_TR_YES"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_PREF_FAN_ACT_PLAY",
+                    "description": "QUESTION_PREF_FAN_ACT_PLAY_DESCRIPTION",
+                    "group": {
+                        "title": "GROUP_PREF_FAN_ACT_TITLE",
+                        "description": "GROUP_PREF_FAN_ACT_DESCRIPTION"
+                    },
+                    "answers": [
+                        {
+                            "id": "ANSWER_PREF_FAN_ACT_PLAY_NO"
+                        },
+                        {
+                            "id": "ANSWER_PREF_FAN_ACT_PLAY_YES"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_PREF_FAN_ACT_POSE",
+                    "description": "QUESTION_PREF_FAN_ACT_POSE_DESCRIPTION",
+                    "group": {
+                        "title": "GROUP_PREF_FAN_ACT_TITLE",
+                        "description": "GROUP_PREF_FAN_ACT_DESCRIPTION"
+                    },
+                    "answers": [
+                        {
+                            "id": "ANSWER_PREF_FAN_ACT_POSE_NO"
+                        },
+                        {
+                            "id": "ANSWER_PREF_FAN_ACT_POSE_YES"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_PREF_FAN_ACT_SEX",
+                    "description": "QUESTION_PREF_FAN_ACT_SEX_DESCRIPTION",
+                    "group": {
+                        "title": "GROUP_PREF_FAN_ACT_TITLE",
+                        "description": "GROUP_PREF_FAN_ACT_DESCRIPTION"
+                    },
+                    "answers": [
+                        {
+                            "jump_to": "QUESTION_PREF_FAN_ACT_ADSEX",
+                            "id": "ANSWER_PREF_FAN_ACT_SEX_NO"
+                        },
+                        {
+                            "id": "ANSWER_PREF_FAN_ACT_SEX_YES"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_PREF_FAN_ACT_SEX_SPECIFY",
+                    "description": "QUESTION_PREF_FAN_ACT_SEX_SPECIFY_DESCRIPTION",
+                    "group": {
+                        "title": "GROUP_PREF_FAN_ACT_TITLE",
+                        "description": "GROUP_PREF_FAN_ACT_DESCRIPTION"
+                    },
+                    "answers": [
+                        {
+                            "id": "ANSWER_PREF_FAN_ACT_SEX_TOU"
+                        },
+                        {
+                            "id": "ANSWER_PREF_FAN_ACT_SEX_MAST"
+                        },
+                        {
+                            "id": "ANSWER_PREF_FAN_ACT_SEX_MAST_EO"
+                        },
+                        {
+                            "id": "ANSWER_PREF_FAN_ACT_SEX_PEN"
+                        }
+                    ],
+                    "type": "multi"
+                },
+                {
+                    "id": "QUESTION_PREF_FAN_ACT_ADSEX",
+                    "description": "QUESTION_PREF_FAN_ACT_ADSEX_DESCRIPTION",
+                    "group": {
+                        "title": "GROUP_PREF_FAN_ACT_TITLE",
+                        "description": "GROUP_PREF_FAN_ACT_DESCRIPTION"
+                    },
+                    "answers": [
+                        {
+                            "jump_to": "QUESTION_PREF_FAN_ACT_SEX_VIO",
+                            "id": "ANSWER_PREF_FAN_ACT_ADSEX_NO"
+                        },
+                        {
+                            "id": "ANSWER_PREF_FAN_ACT_ADSEX_YES"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_PREF_FAN_ACT_ADSEX_SPECIFY",
+                    "description": "QUESTION_PREF_FAN_ACT_ADSEX_SPECIFY_DESCRIPTION",
+                    "group": {
+                        "title": "GROUP_PREF_FAN_ACT_TITLE",
+                        "description": "GROUP_PREF_FAN_ACT_DESCRIPTION"
+                    },
+                    "answers": [
+                        {
+                            "id": "ANSWER_PREF_FAN_ACT_ADSEX_TOU"
+                        },
+                        {
+                            "id": "ANSWER_PREF_FAN_ACT_ADSEX_MAST"
+                        },
+                        {
+                            "id": "ANSWER_PREF_FAN_ACT_ADSEX_MAST_EO"
+                        },
+                        {
+                            "id": "ANSWER_PREF_FAN_ACT_ADSEX_PEN"
+                        }
+                    ],
+                    "type": "multi"
+                },
+                {
+                    "id": "QUESTION_PREF_FAN_ACT_SEX_VIO",
+                    "description": "QUESTION_PREF_FAN_ACT_SEX_VIO_DESCRIPTION",
+                    "group": {
+                        "title": "GROUP_PREF_FAN_ACT_TITLE",
+                        "description": "GROUP_PREF_FAN_ACT_DESCRIPTION"
+                    },
+                    "answers": [
+                        {
+                            "id": "ANSWER_PREF_FAN_ACT_SEX_VIO_NO"
+                        },
+                        {
+                            "id": "ANSWER_PREF_FAN_ACT_SEX_VIO_YES"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_PREF_FET",
+                    "description": "QUESTION_PREF_FET_DESCRIPTION",
+                    "group": {
+                        "title": "GROUP_PREF_FET_TITLE",
+                        "description": "GROUP_PREF_FET_DESCRIPTION"
+                    },
+                    "answers": [
+                        {
+                            "jump_to": "QUESTION_PREF_TRANS_FET",
+                            "id": "ANSWER_PREF_FET_NO"
+                        },
+                        {
+                            "id": "ANSWER_PREF_FET_YES"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_PREF_FET_TIME",
+                    "description": "QUESTION_PREF_FET_TIME_DESCRIPTION",
+                    "group": {
+                        "title": "GROUP_PREF_FET_TITLE",
+                        "description": "GROUP_PREF_FET_DESCRIPTION"
+                    },
+                    "answers": [
+                        {
+                            "jump_to": "QUESTION_PREF_TRANS_FET",
+                            "id": "ANSWER_PREF_FET_TIME_NO"
+                        },
+                        {
+                            "id": "ANSWER_PREF_FET_TIME_YES"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_PREF_FET_SPECIFY",
+                    "description": "QUESTION_PREF_FET_SPECIFY_DESCRIPTION",
+                    "group": {
+                        "title": "GROUP_PREF_FET_TITLE",
+                        "description": "GROUP_PREF_FET_DESCRIPTION"
+                    },
+                    "answers": {
+                        "id": "PREF_FET_SPECIFY_text"
+                    },
+                    "type": "text"
+                },
+                {
+                    "id": "QUESTION_PREF_FET_DUR",
+                    "description": "QUESTION_PREF_FET_DUR_DESCRIPTION",
+                    "group": {
+                        "title": "GROUP_PREF_FET_TITLE",
+                        "description": "GROUP_PREF_FET_DESCRIPTION"
+                    },
+                    "answers": [
+                        {
+                            "id": "ANSWER_PREF_FET_DUR_PUBERTY"
+                        },
+                        {
+                            "id": "ANSWER_PREF_FET_DUR_YEARS",
+                            "type": "number",
+                            "min": 0,
+                            "max": 80
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_PREF_FET_DIS",
+                    "description": "QUESTION_PREF_FET_DIS_DESCRIPTION",
+                    "group": {
+                        "title": "GROUP_PREF_FET_TITLE",
+                        "description": "GROUP_PREF_FET_DESCRIPTION"
+                    },
+                    "answers": [
+                        {
+                            "id": "ANSWER_PREF_FET_DIS_NO"
+                        },
+                        {
+                            "id": "ANSWER_PREF_FET_DIS_YES"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_PREF_FET_TR",
+                    "description": "QUESTION_PREF_FET_TR_DESCRIPTION",
+                    "group": {
+                        "title": "GROUP_PREF_FET_TITLE",
+                        "description": "GROUP_PREF_FET_DESCRIPTION"
+                    },
+                    "answers": [
+                        {
+                            "id": "ANSWER_PREF_FET_TR_NO"
+                        },
+                        {
+                            "id": "ANSWER_PREF_FET_TR_YES"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_PREF_TRANS_FET",
+                    "description": "QUESTION_PREF_TRANS_FET_DESCRIPTION",
+                    "group": {
+                        "title": "GROUP_PREF_TRANS_FET_TITLE",
+                        "description": "GROUP_PREF_TRANS_FET_DESCRIPTION"
+                    },
+                    "answers": [
+                        {
+                            "jump_to": "QUESTION_PREF_MASO",
+                            "id": "ANSWER_PREF_TRANS_FET_NO"
+                        },
+                        {
+                            "id": "ANSWER_PREF_TRANS_FET_YES"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_PREF_TRANS_FET_TIME",
+                    "description": "QUESTION_PREF_TRANS_FET_TIME_DESCRIPTION",
+                    "group": {
+                        "title": "GROUP_PREF_TRANS_FET_TITLE",
+                        "description": "GROUP_PREF_TRANS_FET_DESCRIPTION"
+                    },
+                    "answers": [
+                        {
+                            "jump_to": "QUESTION_PREF_MASO",
+                            "id": "ANSWER_PREF_TRANS_FET_TIME_NO"
+                        },
+                        {
+                            "id": "ANSWER_PREF_TRANS_FET_TIME_YES"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_PREF_TRANS_FET_DUR",
+                    "description": "QUESTION_PREF_TRANS_FET_DUR_DESCRIPTION",
+                    "group": {
+                        "title": "GROUP_PREF_TRANS_FET_TITLE",
+                        "description": "GROUP_PREF_TRANS_FET_DESCRIPTION"
+                    },
+                    "answers": [
+                        {
+                            "id": "ANSWER_PREF_TRANS_FET_DUR_PUBERTY"
+                        },
+                        {
+                            "id": "ANSWER_PREF_TRANS_FET_DUR_YEARS",
+                            "type": "number",
+                            "min": 0,
+                            "max": 80
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_PREF_TRANS_FET_DIS",
+                    "description": "QUESTION_PREF_TRANS_FET_DIS_DESCRIPTION",
+                    "group": {
+                        "title": "GROUP_PREF_TRANS_FET_TITLE",
+                        "description": "GROUP_PREF_TRANS_FET_DESCRIPTION"
+                    },
+                    "answers": [
+                        {
+                            "id": "ANSWER_PREF_TRANS_FET_DIS_NO"
+                        },
+                        {
+                            "id": "ANSWER_PREF_TRANS_FET_DIS_YES"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_PREF_TRANS_FET_TR",
+                    "description": "QUESTION_PREF_TRANS_FET_TR_DESCRIPTION",
+                    "group": {
+                        "title": "GROUP_PREF_TRANS_FET_TITLE",
+                        "description": "GROUP_PREF_TRANS_FET_DESCRIPTION"
+                    },
+                    "answers": [
+                        {
+                            "id": "ANSWER_PREF_TRANS_FET_TR_NO"
+                        },
+                        {
+                            "id": "ANSWER_PREF_TRANS_FET_TR_YES"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_PREF_MASO",
+                    "description": "QUESTION_PREF_MASO_DESCRIPTION",
+                    "group": {
+                        "title": "GROUP_PREF_MASO_TITLE",
+                        "description": "GROUP_PREF_MASO_DESCRIPTION"
+                    },
+                    "answers": [
+                        {
+                            "jump_to": "QUESTION_PREF_SAD",
+                            "id": "ANSWER_PREF_MASO_NO"
+                        },
+                        {
+                            "id": "ANSWER_PREF_MASO_YES"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_PREF_MASO_TIME",
+                    "description": "QUESTION_PREF_MASO_TIME_DESCRIPTION",
+                    "group": {
+                        "title": "GROUP_PREF_MASO_TITLE",
+                        "description": "GROUP_PREF_MASO_DESCRIPTION"
+                    },
+                    "answers": [
+                        {
+                            "jump_to": "QUESTION_PREF_SAD",
+                            "id": "ANSWER_PREF_MASO_TIME_NO"
+                        },
+                        {
+                            "id": "ANSWER_PREF_MASO_TIME_YES"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_PREF_MASO_DUR",
+                    "description": "QUESTION_PREF_MASO_DUR_DESCRIPTION",
+                    "group": {
+                        "title": "GROUP_PREF_MASO_TITLE",
+                        "description": "GROUP_PREF_MASO_DESCRIPTION"
+                    },
+                    "answers": [
+                        {
+                            "id": "ANSWER_PREF_MASO_DUR_PUBERTY"
+                        },
+                        {
+                            "id": "ANSWER_PREF_MASO_DUR_YEARS",
+                            "type": "number",
+                            "min": 0,
+                            "max": 80
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_PREF_MASO_DIS",
+                    "description": "QUESTION_PREF_MASO_DIS_DESCRIPTION",
+                    "group": {
+                        "title": "GROUP_PREF_MASO_TITLE",
+                        "description": "GROUP_PREF_MASO_DESCRIPTION"
+                    },
+                    "answers": [
+                        {
+                            "id": "ANSWER_PREF_MASO_DIS_NO"
+                        },
+                        {
+                            "id": "ANSWER_PREF_MASO_DIS_YES"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_PREF_MASO_TR",
+                    "description": "QUESTION_PREF_MASO_TR_DESCRIPTION",
+                    "group": {
+                        "title": "GROUP_PREF_MASO_TITLE",
+                        "description": "GROUP_PREF_MASO_DESCRIPTION"
+                    },
+                    "answers": [
+                        {
+                            "id": "ANSWER_PREF_MASO_TR_NO"
+                        },
+                        {
+                            "id": "ANSWER_PREF_MASO_TR_YES"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_PREF_SAD",
+                    "description": "QUESTION_PREF_SAD_DESCRIPTION",
+                    "group": {
+                        "title": "GROUP_PREF_SAD_TITLE",
+                        "description": "GROUP_PREF_SAD_DESCRIPTION"
+                    },
+                    "answers": [
+                        {
+                            "jump_to": "QUESTION_PREF_VOY",
+                            "id": "ANSWER_PREF_SAD_NO"
+                        },
+                        {
+                            "id": "ANSWER_PREF_SAD_YES"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_PREF_SAD_TIME",
+                    "description": "QUESTION_PREF_SAD_TIME_DESCRIPTION",
+                    "group": {
+                        "title": "GROUP_PREF_SAD_TITLE",
+                        "description": "GROUP_PREF_SAD_DESCRIPTION"
+                    },
+                    "answers": [
+                        {
+                            "jump_to": "QUESTION_PREF_VOY",
+                            "id": "ANSWER_PREF_SAD_TIME_NO"
+                        },
+                        {
+                            "id": "ANSWER_PREF_SAD_TIME_YES"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_PREF_SAD_DUR",
+                    "description": "QUESTION_PREF_SAD_DUR_DESCRIPTION",
+                    "group": {
+                        "title": "GROUP_PREF_SAD_TITLE",
+                        "description": "GROUP_PREF_SAD_DESCRIPTION"
+                    },
+                    "answers": [
+                        {
+                            "id": "ANSWER_PREF_SAD_DUR_PUBERTY"
+                        },
+                        {
+                            "id": "ANSWER_PREF_SAD_DUR_YEARS",
+                            "type": "number",
+                            "min": 0,
+                            "max": 80
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_PREF_SAD_DIS",
+                    "description": "QUESTION_PREF_SAD_DIS_DESCRIPTION",
+                    "group": {
+                        "title": "GROUP_PREF_SAD_TITLE",
+                        "description": "GROUP_PREF_SAD_DESCRIPTION"
+                    },
+                    "answers": [
+                        {
+                            "id": "ANSWER_PREF_SAD_DIS_NO"
+                        },
+                        {
+                            "id": "ANSWER_PREF_SAD_DIS_YES"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_PREF_SAD_TR",
+                    "description": "QUESTION_PREF_SAD_TR_DESCRIPTION",
+                    "group": {
+                        "title": "GROUP_PREF_SAD_TITLE",
+                        "description": "GROUP_PREF_SAD_DESCRIPTION"
+                    },
+                    "answers": [
+                        {
+                            "id": "ANSWER_PREF_SAD_TR_NO"
+                        },
+                        {
+                            "id": "ANSWER_PREF_SAD_TR_YES"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_PREF_VOY",
+                    "description": "QUESTION_PREF_VOY_DESCRIPTION",
+                    "group": {
+                        "title": "GROUP_PREF_VOY_TITLE",
+                        "description": "GROUP_PREF_VOY_DESCRIPTION"
+                    },
+                    "answers": [
+                        {
+                            "jump_to": "QUESTION_PREF_EXH",
+                            "id": "ANSWER_PREF_VOY_NO"
+                        },
+                        {
+                            "id": "ANSWER_PREF_VOY_YES"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_PREF_VOY_TIME",
+                    "description": "QUESTION_PREF_VOY_TIME_DESCRIPTION",
+                    "group": {
+                        "title": "GROUP_PREF_VOY_TITLE",
+                        "description": "GROUP_PREF_VOY_DESCRIPTION"
+                    },
+                    "answers": [
+                        {
+                            "jump_to": "QUESTION_PREF_EXH",
+                            "id": "ANSWER_PREF_VOY_TIME_NO"
+                        },
+                        {
+                            "id": "ANSWER_PREF_VOY_TIME_YES"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_PREF_VOY_DUR",
+                    "description": "QUESTION_PREF_VOY_DUR_DESCRIPTION",
+                    "group": {
+                        "title": "GROUP_PREF_VOY_TITLE",
+                        "description": "GROUP_PREF_VOY_DESCRIPTION"
+                    },
+                    "answers": [
+                        {
+                            "id": "ANSWER_PREF_VOY_DUR_PUBERTY"
+                        },
+                        {
+                            "id": "ANSWER_PREF_VOY_DUR_YEARS",
+                            "type": "number",
+                            "min": 0,
+                            "max": 80
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_PREF_VOY_DIS",
+                    "description": "QUESTION_PREF_VOY_DIS_DESCRIPTION",
+                    "group": {
+                        "title": "GROUP_PREF_VOY_TITLE",
+                        "description": "GROUP_PREF_VOY_DESCRIPTION"
+                    },
+                    "answers": [
+                        {
+                            "id": "ANSWER_PREF_VOY_DIS_NO"
+                        },
+                        {
+                            "id": "ANSWER_PREF_VOY_DIS_YES"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_PREF_VOY_TR",
+                    "description": "QUESTION_PREF_VOY_TR_DESCRIPTION",
+                    "group": {
+                        "title": "GROUP_PREF_VOY_TITLE",
+                        "description": "GROUP_PREF_VOY_DESCRIPTION"
+                    },
+                    "answers": [
+                        {
+                            "id": "ANSWER_PREF_VOY_TR_NO"
+                        },
+                        {
+                            "id": "ANSWER_PREF_VOY_TR_YES"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_PREF_EXH",
+                    "description": "QUESTION_PREF_EXH_DESCRIPTION",
+                    "group": {
+                        "title": "GROUP_PREF_EXH_TITLE",
+                        "description": "GROUP_PREF_EXH_DESCRIPTION"
+                    },
+                    "answers": [
+                        {
+                            "jump_to": "QUESTION_PREF_FROT",
+                            "id": "ANSWER_PREF_EXH_NO"
+                        },
+                        {
+                            "id": "ANSWER_PREF_EXH_YES"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_PREF_EXH_TIME",
+                    "description": "QUESTION_PREF_EXH_TIME_DESCRIPTION",
+                    "group": {
+                        "title": "GROUP_PREF_EXH_TITLE",
+                        "description": "GROUP_PREF_EXH_DESCRIPTION"
+                    },
+                    "answers": [
+                        {
+                            "jump_to": "QUESTION_PREF_FROT",
+                            "id": "ANSWER_PREF_EXH_TIME_NO"
+                        },
+                        {
+                            "id": "ANSWER_PREF_EXH_TIME_YES"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_PREF_EXH_DUR",
+                    "description": "QUESTION_PREF_EXH_DUR_DESCRIPTION",
+                    "group": {
+                        "title": "GROUP_PREF_EXH_TITLE",
+                        "description": "GROUP_PREF_EXH_DESCRIPTION"
+                    },
+                    "answers": [
+                        {
+                            "id": "ANSWER_PREF_EXH_DUR_PUBERTY"
+                        },
+                        {
+                            "id": "ANSWER_PREF_EXH_DUR_YEARS",
+                            "type": "number",
+                            "min": 0,
+                            "max": 80
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_PREF_EXH_DIS",
+                    "description": "QUESTION_PREF_EXH_DIS_DESCRIPTION",
+                    "group": {
+                        "title": "GROUP_PREF_EXH_TITLE",
+                        "description": "GROUP_PREF_EXH_DESCRIPTION"
+                    },
+                    "answers": [
+                        {
+                            "id": "ANSWER_PREF_EXH_DIS_NO"
+                        },
+                        {
+                            "id": "ANSWER_PREF_EXH_DIS_YES"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_PREF_EXH_TR",
+                    "description": "QUESTION_PREF_EXH_TR_DESCRIPTION",
+                    "group": {
+                        "title": "GROUP_PREF_EXH_TITLE",
+                        "description": "GROUP_PREF_EXH_DESCRIPTION"
+                    },
+                    "answers": [
+                        {
+                            "id": "ANSWER_PREF_EXH_TR_NO"
+                        },
+                        {
+                            "id": "ANSWER_PREF_EXH_TR_YES"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_PREF_FROT",
+                    "description": "QUESTION_PREF_FROT_DESCRIPTION",
+                    "group": {
+                        "title": "GROUP_PREF_FROT_TITLE",
+                        "description": "GROUP_PREF_FROT_DESCRIPTION"
+                    },
+                    "answers": [
+                        {
+                            "jump_to": "QUESTION_PREF_TOU",
+                            "id": "ANSWER_PREF_FROT_NO"
+                        },
+                        {
+                            "id": "ANSWER_PREF_FROT_YES"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_PREF_FROT_TIME",
+                    "description": "QUESTION_PREF_FROT_TIME_DESCRIPTION",
+                    "group": {
+                        "title": "GROUP_PREF_FROT_TITLE",
+                        "description": "GROUP_PREF_FROT_DESCRIPTION"
+                    },
+                    "answers": [
+                        {
+                            "jump_to": "QUESTION_PREF_TOU",
+                            "id": "ANSWER_PREF_FROT_TIME_NO"
+                        },
+                        {
+                            "id": "ANSWER_PREF_FROT_TIME_YES"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_PREF_FROT_DUR",
+                    "description": "QUESTION_PREF_FROT_DUR_DESCRIPTION",
+                    "group": {
+                        "title": "GROUP_PREF_FROT_TITLE",
+                        "description": "GROUP_PREF_FROT_DESCRIPTION"
+                    },
+                    "answers": [
+                        {
+                            "id": "ANSWER_PREF_FROT_DUR_PUBERTY"
+                        },
+                        {
+                            "id": "ANSWER_PREF_FROT_DUR_YEARS",
+                            "type": "number",
+                            "min": 0,
+                            "max": 80
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_PREF_FROT_DIS",
+                    "description": "QUESTION_PREF_FROT_DIS_DESCRIPTION",
+                    "group": {
+                        "title": "GROUP_PREF_FROT_TITLE",
+                        "description": "GROUP_PREF_FROT_DESCRIPTION"
+                    },
+                    "answers": [
+                        {
+                            "id": "ANSWER_PREF_FROT_DIS_NO"
+                        },
+                        {
+                            "id": "ANSWER_PREF_FROT_DIS_YES"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_PREF_FROT_TR",
+                    "description": "QUESTION_PREF_FROT_TR_DESCRIPTION",
+                    "group": {
+                        "title": "GROUP_PREF_FROT_TITLE",
+                        "description": "GROUP_PREF_FROT_DESCRIPTION"
+                    },
+                    "answers": [
+                        {
+                            "id": "ANSWER_PREF_FROT_TR_NO"
+                        },
+                        {
+                            "id": "ANSWER_PREF_FROT_TR_YES"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_PREF_TOU",
+                    "description": "QUESTION_PREF_TOU_DESCRIPTION",
+                    "group": {
+                        "title": "GROUP_PREF_TOU_TITLE",
+                        "description": "GROUP_PREF_TOU_DESCRIPTION"
+                    },
+                    "answers": [
+                        {
+                            "jump_to": "QUESTION_PREF_PART",
+                            "id": "ANSWER_PREF_TOU_NO"
+                        },
+                        {
+                            "id": "ANSWER_PREF_TOU_YES"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_PREF_TOU_TIME",
+                    "description": "QUESTION_PREF_TOU_TIME_DESCRIPTION",
+                    "group": {
+                        "title": "GROUP_PREF_TOU_TITLE",
+                        "description": "GROUP_PREF_TOU_DESCRIPTION"
+                    },
+                    "answers": [
+                        {
+                            "jump_to": "QUESTION_PREF_PART",
+                            "id": "ANSWER_PREF_TOU_TIME_NO"
+                        },
+                        {
+                            "id": "ANSWER_PREF_TOU_TIME_YES"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_PREF_TOU_DUR",
+                    "description": "QUESTION_PREF_TOU_DUR_DESCRIPTION",
+                    "group": {
+                        "title": "GROUP_PREF_TOU_TITLE",
+                        "description": "GROUP_PREF_TOU_DESCRIPTION"
+                    },
+                    "answers": [
+                        {
+                            "id": "ANSWER_PREF_TOU_DUR_PUBERTY"
+                        },
+                        {
+                            "id": "ANSWER_PREF_TOU_DUR_YEARS",
+                            "type": "number",
+                            "min": 0,
+                            "max": 80
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_PREF_TOU_DIS",
+                    "description": "QUESTION_PREF_TOU_DIS_DESCRIPTION",
+                    "group": {
+                        "title": "GROUP_PREF_TOU_TITLE",
+                        "description": "GROUP_PREF_TOU_DESCRIPTION"
+                    },
+                    "answers": [
+                        {
+                            "id": "ANSWER_PREF_TOU_DIS_NO"
+                        },
+                        {
+                            "id": "ANSWER_PREF_TOU_DIS_YES"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_PREF_TOU_TR",
+                    "description": "QUESTION_PREF_TOU_TR_DESCRIPTION",
+                    "group": {
+                        "title": "GROUP_PREF_TOU_TITLE",
+                        "description": "GROUP_PREF_TOU_DESCRIPTION"
+                    },
+                    "answers": [
+                        {
+                            "id": "ANSWER_PREF_TOU_TR_NO"
+                        },
+                        {
+                            "id": "ANSWER_PREF_TOU_TR_YES"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_PREF_PART",
+                    "description": "QUESTION_PREF_PART_DESCRIPTION",
+                    "group": {
+                        "title": "GROUP_PREF_PART_TITLE",
+                        "description": "GROUP_PREF_PART_DESCRIPTION"
+                    },
+                    "answers": [
+                        {
+                            "jump_to": "QUESTION_PREF_PRACT",
+                            "id": "ANSWER_PREF_PART_NO"
+                        },
+                        {
+                            "id": "ANSWER_PREF_PART_YES"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_PREF_PART_TIME",
+                    "description": "QUESTION_PREF_PART_TIME_DESCRIPTION",
+                    "group": {
+                        "title": "GROUP_PREF_PART_TITLE",
+                        "description": "GROUP_PREF_PART_DESCRIPTION"
+                    },
+                    "answers": [
+                        {
+                            "jump_to": "QUESTION_PREF_PRACT",
+                            "id": "ANSWER_PREF_PART_TIME_NO"
+                        },
+                        {
+                            "id": "ANSWER_PREF_PART_TIME_YES"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_PREF_PART_SPECIFY",
+                    "description": "QUESTION_PREF_PART_SPECIFY_DESCRIPTION",
+                    "group": {
+                        "title": "GROUP_PREF_PART_TITLE",
+                        "description": "GROUP_PREF_PART_DESCRIPTION"
+                    },
+                    "answers": {
+                        "id": "PREF_PART_SPECIFY_text"
+                    },
+                    "type": "text"
+                },
+                {
+                    "id": "QUESTION_PREF_PART_DUR",
+                    "description": "QUESTION_PREF_PART_DUR_DESCRIPTION",
+                    "group": {
+                        "title": "GROUP_PREF_PART_TITLE",
+                        "description": "GROUP_PREF_PART_DESCRIPTION"
+                    },
+                    "answers": [
+                        {
+                            "id": "ANSWER_PREF_PART_DUR_PUBERTY"
+                        },
+                        {
+                            "id": "ANSWER_PREF_PART_DUR_YEARS",
+                            "type": "number",
+                            "min": 0,
+                            "max": 80
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_PREF_PART_DIS",
+                    "description": "QUESTION_PREF_PART_DIS_DESCRIPTION",
+                    "group": {
+                        "title": "GROUP_PREF_PART_TITLE",
+                        "description": "GROUP_PREF_PART_DESCRIPTION"
+                    },
+                    "answers": [
+                        {
+                            "id": "ANSWER_PREF_PART_DIS_NO"
+                        },
+                        {
+                            "id": "ANSWER_PREF_PART_DIS_YES"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_PREF_PART_TR",
+                    "description": "QUESTION_PREF_PART_TR_DESCRIPTION",
+                    "group": {
+                        "title": "GROUP_PREF_PART_TITLE",
+                        "description": "GROUP_PREF_PART_DESCRIPTION"
+                    },
+                    "answers": [
+                        {
+                            "id": "ANSWER_PREF_PART_TR_NO"
+                        },
+                        {
+                            "id": "ANSWER_PREF_PART_TR_YES"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_PREF_PRACT",
+                    "description": "QUESTION_PREF_PRACT_DESCRIPTION",
+                    "group": {
+                        "title": "GROUP_PREF_PRACT_TITLE",
+                        "description": "GROUP_PREF_PRACT_DESCRIPTION"
+                    },
+                    "answers": [
+                        {
+                            "jump_to": "QUESTION_PREF_SPEC_ATT",
+                            "id": "ANSWER_PREF_PRACT_NO"
+                        },
+                        {
+                            "id": "ANSWER_PREF_PRACT_YES"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_PREF_PRACT_TIME",
+                    "description": "QUESTION_PREF_PRACT_TIME_DESCRIPTION",
+                    "group": {
+                        "title": "GROUP_PREF_PRACT_TITLE",
+                        "description": "GROUP_PREF_PRACT_DESCRIPTION"
+                    },
+                    "answers": [
+                        {
+                            "jump_to": "QUESTION_PREF_SPEC_ATT",
+                            "id": "ANSWER_PREF_PRACT_TIME_NO"
+                        },
+                        {
+                            "id": "ANSWER_PREF_PRACT_TIME_YES"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_PREF_PRACT_SPECIFY",
+                    "description": "QUESTION_PREF_PRACT_SPECIFY_DESCRIPTION",
+                    "group": {
+                        "title": "GROUP_PREF_PRACT_TITLE",
+                        "description": "GROUP_PREF_PRACT_DESCRIPTION"
+                    },
+                    "answers": {
+                        "id": "PREF_PRACT_SPECIFY_text"
+                    },
+                    "type": "text"
+                },
+                {
+                    "id": "QUESTION_PREF_PRACT_DUR",
+                    "description": "QUESTION_PREF_PRACT_DUR_DESCRIPTION",
+                    "group": {
+                        "title": "GROUP_PREF_PRACT_TITLE",
+                        "description": "GROUP_PREF_PRACT_DESCRIPTION"
+                    },
+                    "answers": [
+                        {
+                            "id": "ANSWER_PREF_PRACT_DUR_PUBERTY"
+                        },
+                        {
+                            "id": "ANSWER_PREF_PRACT_DUR_YEARS",
+                            "type": "number",
+                            "min": 0,
+                            "max": 80
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_PREF_PRACT_DIS",
+                    "description": "QUESTION_PREF_PRACT_DIS_DESCRIPTION",
+                    "group": {
+                        "title": "GROUP_PREF_PRACT_TITLE",
+                        "description": "GROUP_PREF_PRACT_DESCRIPTION"
+                    },
+                    "answers": [
+                        {
+                            "id": "ANSWER_PREF_PRACT_DIS_NO"
+                        },
+                        {
+                            "id": "ANSWER_PREF_PRACT_DIS_YES"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_PREF_PRACT_TR",
+                    "description": "QUESTION_PREF_PRACT_TR_DESCRIPTION",
+                    "group": {
+                        "title": "GROUP_PREF_PRACT_TITLE",
+                        "description": "GROUP_PREF_PRACT_DESCRIPTION"
+                    },
+                    "answers": [
+                        {
+                            "id": "ANSWER_PREF_PRACT_TR_NO"
+                        },
+                        {
+                            "id": "ANSWER_PREF_PRACT_TR_YES"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_PREF_SPEC_ATT",
+                    "description": "QUESTION_PREF_SPEC_ATT_DESCRIPTION",
+                    "group": {
+                        "title": "GROUP_PREF_SPEC_ATT_TITLE",
+                        "description": "GROUP_PREF_SPEC_ATT_DESCRIPTION"
+                    },
+                    "answers": [
+                        {
+                            "jump_to": "QUESTION_PREF_PARTNER",
+                            "id": "ANSWER_PREF_SPEC_ATT_NO"
+                        },
+                        {
+                            "id": "ANSWER_PREF_SPEC_ATT_YES"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_PREF_SPEC_TIME",
+                    "description": "QUESTION_PREF_SPEC_TIME_DESCRIPTION",
+                    "group": {
+                        "title": "GROUP_PREF_SPEC_ATT_TITLE",
+                        "description": "GROUP_PREF_SPEC_ATT_DESCRIPTION"
+                    },
+                    "answers": [
+                        {
+                            "jump_to": "QUESTION_PREF_PARTNER",
+                            "id": "ANSWER_PREF_SPEC_TIME_NO"
+                        },
+                        {
+                            "id": "ANSWER_PREF_SPEC_TIME_YES"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_PREF_SPEC_ATT_SPECIFY",
+                    "description": "QUESTION_PREF_SPEC_ATT_SPECIFY_DESCRIPTION",
+                    "group": {
+                        "title": "GROUP_PREF_SPEC_ATT_TITLE",
+                        "description": "GROUP_PREF_SPEC_ATT_DESCRIPTION"
+                    },
+                    "answers": {
+                        "id": "PREF_SPEC_ATT_SPECIFY_text"
+                    },
+                    "type": "text"
+                },
+                {
+                    "id": "QUESTION_PREF_SPEC_ATT_DUR",
+                    "description": "QUESTION_PREF_SPEC_ATT_DUR_DESCRIPTION",
+                    "group": {
+                        "title": "GROUP_PREF_SPEC_ATT_TITLE",
+                        "description": "GROUP_PREF_SPEC_ATT_DESCRIPTION"
+                    },
+                    "answers": [
+                        {
+                            "id": "ANSWER_PREF_SPEC_ATT_DUR_PUBERTY"
+                        },
+                        {
+                            "id": "ANSWER_PREF_SPEC_ATT_DUR_YEARS",
+                            "type": "number",
+                            "min": 0,
+                            "max": 80
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_PREF_SPEC_ATT_DIS",
+                    "description": "QUESTION_PREF_SPEC_ATT_DIS_DESCRIPTION",
+                    "group": {
+                        "title": "GROUP_PREF_SPEC_ATT_TITLE",
+                        "description": "GROUP_PREF_SPEC_ATT_DESCRIPTION"
+                    },
+                    "answers": [
+                        {
+                            "id": "ANSWER_PREF_SPEC_ATT_DIS_NO"
+                        },
+                        {
+                            "id": "ANSWER_PREF_SPEC_ATT_DIS_YES"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_PREF_SPEC_ATT_TR",
+                    "description": "QUESTION_PREF_SPEC_ATT_TR_DESCRIPTION",
+                    "group": {
+                        "title": "GROUP_PREF_SPEC_ATT_TITLE",
+                        "description": "GROUP_PREF_SPEC_ATT_DESCRIPTION"
+                    },
+                    "answers": [
+                        {
+                            "id": "ANSWER_PREF_SPEC_ATT_TR_NO"
+                        },
+                        {
+                            "id": "ANSWER_PREF_SPEC_ATT_TR_YES"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_PREF_PARTNER",
+                    "description": "QUESTION_PREF_PARTNER_DESCRIPTION",
+                    "group": {
+                        "title": "GROUP_PREF_PARTNER_TITLE",
+                        "description": "GROUP_PREF_PARTNER_DESCRIPTION"
+                    },
+                    "answers": [
+                        {
+                            "jump_to": "QUESTION_PREF_OUT",
+                            "id": "ANSWER_PREF_PARTNER_NO"
+                        },
+                        {
+                            "id": "ANSWER_PREF_PARTNER_YES"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_PREF_PARTNER_TIME",
+                    "description": "QUESTION_PREF_PARTNER_TIME_DESCRIPTION",
+                    "group": {
+                        "title": "GROUP_PREF_PARTNER_TITLE",
+                        "description": "GROUP_PREF_PARTNER_DESCRIPTION"
+                    },
+                    "answers": [
+                        {
+                            "jump_to": "QUESTION_PREF_OUT",
+                            "id": "ANSWER_PREF_PARTNER_TIME_NO"
+                        },
+                        {
+                            "id": "ANSWER_PREF_PARTNER_TIME_YES"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_PREF_PARTNER_SPECIFY",
+                    "description": "QUESTION_PREF_PARTNER_SPECIFY_DESCRIPTION",
+                    "group": {
+                        "title": "GROUP_PREF_PARTNER_TITLE",
+                        "description": "GROUP_PREF_PARTNER_DESCRIPTION"
+                    },
+                    "answers": {
+                        "id": "PREF_PARTNER_SPECIFY_test"
+                    },
+                    "type": "text"
+                },
+                {
+                    "id": "QUESTION_PREF_PARTNER_DUR",
+                    "description": "QUESTION_PREF_PARTNER_DUR_DESCRIPTION",
+                    "group": {
+                        "title": "GROUP_PREF_PARTNER_TITLE",
+                        "description": "GROUP_PREF_PARTNER_DESCRIPTION"
+                    },
+                    "answers": [
+                        {
+                            "id": "ANSWER_PREF_PARTNER_DUR_PUBERTY"
+                        },
+                        {
+                            "id": "ANSWER_PREF_PARTNER_DUR_YEARS",
+                            "type": "number",
+                            "min": 0,
+                            "max": 80
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_PREF_PARTNER_DIS",
+                    "description": "QUESTION_PREF_PARTNER_DIS_DESCRIPTION",
+                    "group": {
+                        "title": "GROUP_PREF_PARTNER_TITLE",
+                        "description": "GROUP_PREF_PARTNER_DESCRIPTION"
+                    },
+                    "answers": [
+                        {
+                            "id": "ANSWER_PREF_PARTNER_DIS_NO"
+                        },
+                        {
+                            "id": "ANSWER_PREF_PARTNER_DIS_YES"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_PREF_PARTNER_TR",
+                    "description": "QUESTION_PREF_PARTNER_TR_DESCRIPTION",
+                    "group": {
+                        "title": "GROUP_PREF_PARTNER_TITLE",
+                        "description": "GROUP_PREF_PARTNER_DESCRIPTION"
+                    },
+                    "answers": [
+                        {
+                            "id": "ANSWER_PREF_PARTNER_TR_NO"
+                        },
+                        {
+                            "id": "ANSWER_PREF_PARTNER_TR_YES"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_PREF_OUT",
+                    "description": "QUESTION_PREF_OUT_DESCRIPTION",
+                    "answers": [
+                        {
+                            "jump_to": "QUESTION_BEHAV_PORN",
+                            "id": "ANSWER_PREF_OUT_NO"
+                        },
+                        {
+                            "id": "ANSWER_PREF_OUT_YES",
+                            "type": "number",
+                            "min": 1,
+                            "max": 20,
+                            "default": 1
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_PREF_OUT_KNOW",
+                    "description": "QUESTION_PREF_OUT_KNOW_DESCRIPTION",
+                    "answers": [
+                        {
+                            "id": "ANSWER_PREF_OUT_KNOW_FAMILY"
+                        },
+                        {
+                            "id": "ANSWER_PREF_OUT_KNOW_FRIENDS"
+                        },
+                        {
+                            "id": "ANSWER_PREF_OUT_KNOW_THERAPIST"
+                        }
+                    ],
+                    "type": "multi"
+                },
+                {
+                    "id": "QUESTION_PREF_OUT_SPECIFY",
+                    "description": "QUESTION_PREF_OUT_SPECIFY_DESCRIPTION",
+                    "answers": {
+                        "id": "PREF_OUT_SPECIFY_text"
+                    },
+                    "type": "text"
+                }
+            ]
+        },
+        {
+            "id": "SEXUAL_BEHAVIOR_ADULT",
+            "title": "SEXUAL_BEHAVIOR_ADULT_TITLE",
+            "description": "SEXUAL_BEHAVIOR_ADULT_DESCRIPTION",
+            "questions": [
+                {
+                    "id": "QUESTION_BEHAV_PORN",
+                    "description": "QUESTION_BEHAV_PORN_DESCRIPTION",
+                    "group": {
+                        "description": "GROUP_BEHAV_PART1_DESCRIPTION"
+                    },
+                    "answers": [
+                        {
+                            "id": "ANSWER_BEHAV_PORN_NEVER"
+                        },
+                        {
+                            "id": "ANSWER_BEHAV_PORN_SOMETIME"
+                        },
+                        {
+                            "id": "ANSWER_BEHAV_PORN_RECENTLY"
+                        },
+                        {
+                            "id": "ANSWER_BEHAV_PORN_CURRENTLY"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_BEHAV_LT_CSAI",
+                    "description": "QUESTION_BEHAV_LT_CSAI_DESCRIPTION",
+                    "group": {
+                        "description": "GROUP_BEHAV_PART1_DESCRIPTION"
+                    },
+                    "answers": [
+                        {
+                            "jump_to": "QUESTION_BEHAV_CSAI_HF",
+                            "id": "ANSWER_BEHAV_LT_CSAI_NO"
+                        },
+                        {
+                            "id": "ANSWER_BEHAV_LT_CSAI_YES"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_BEHAV_LT_CSAI_FREQ",
+                    "description": "QUESTION_BEHAV_LT_CSAI_FREQ_DESCRIPTION",
+                    "group": {
+                        "description": "GROUP_BEHAV_PART1_DESCRIPTION"
+                    },
+                    "answers": [
+                        {
+                            "id": "ANSWER_BEHAV_LT_CSAI_FREQ_DAILY"
+                        },
+                        {
+                            "id": "ANSWER_BEHAV_LT_CSAI_FREQ_WEEKLY"
+                        },
+                        {
+                            "id": "ANSWER_BEHAV_LT_CSAI_FREQ_MONTHLY"
+                        },
+                        {
+                            "id": "ANSWER_BEHAV_LT_CSAI_FREQ_MAX_TWICE_YEAR"
+                        },
+                        {
+                            "id": "ANSWER_BEHAV_LT_CSAI_FREQ_LESS_ONCE_YEAR"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_BEHAV_LT_CSAI_L0",
+                    "description": "QUESTION_BEHAV_LT_CSAI_L0_DESCRIPTION",
+                    "group": {
+                        "description": "GROUP_BEHAV_LT_CSAI_L_DESCRIPTION"
+                    },
+                    "answers": [
+                        {
+                            "id": "ANSWER_BEHAV_LT_CSAI_L0_NO"
+                        },
+                        {
+                            "id": "ANSWER_BEHAV_LT_CSAI_L0_YES"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_BEHAV_LT_CSAI_L1",
+                    "description": "QUESTION_BEHAV_LT_CSAI_L1_DESCRIPTION",
+                    "group": {
+                        "description": "GROUP_BEHAV_LT_CSAI_L_DESCRIPTION"
+                    },
+                    "answers": [
+                        {
+                            "id": "ANSWER_BEHAV_LT_CSAI_L1_NO"
+                        },
+                        {
+                            "id": "ANSWER_BEHAV_LT_CSAI_L1_YES"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_BEHAV_LT_CSAI_L2",
+                    "description": "QUESTION_BEHAV_LT_CSAI_L2_DESCRIPTION",
+                    "group": {
+                        "description": "GROUP_BEHAV_LT_CSAI_L_DESCRIPTION"
+                    },
+                    "answers": [
+                        {
+                            "id": "ANSWER_BEHAV_LT_CSAI_L2_NO"
+                        },
+                        {
+                            "id": "ANSWER_BEHAV_LT_CSAI_L2_YES"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_BEHAV_LT_CSAI_L3",
+                    "description": "QUESTION_BEHAV_LT_CSAI_L3_DESCRIPTION",
+                    "group": {
+                        "description": "GROUP_BEHAV_LT_CSAI_L_DESCRIPTION"
+                    },
+                    "answers": [
+                        {
+                            "id": "ANSWER_BEHAV_LT_CSAI_L3_NO"
+                        },
+                        {
+                            "id": "ANSWER_BEHAV_LT_CSAI_L3_YES"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_BEHAV_LT_CSAI_L4",
+                    "description": "QUESTION_BEHAV_LT_CSAI_L4_DESCRIPTION",
+                    "group": {
+                        "description": "GROUP_BEHAV_LT_CSAI_L_DESCRIPTION"
+                    },
+                    "answers": [
+                        {
+                            "jump_to": "QUESTION_BEHAV_LT_CSAI_L5",
+                            "id": "ANSWER_BEHAV_LT_CSAI_L4_NO"
+                        },
+                        {
+                            "id": "ANSWER_BEHAV_LT_CSAI_L4_YES"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_BEHAV_LT_CSAI_L4_SPECIFY",
+                    "description": "QUESTION_BEHAV_LT_CSAI_L4_SPECIFY_DESCRIPTION",
+                    "group": {
+                        "description": "GROUP_BEHAV_LT_CSAI_L_DESCRIPTION"
+                    },
+                    "answers": [
+                        {
+                            "id": "ANSWER_BEHAV_LT_CSAI_L4_SPECIFY_TOUCHING"
+                        },
+                        {
+                            "id": "ANSWER_BEHAV_LT_CSAI_L4_SPECIFY_MASTURBATING"
+                        },
+                        {
+                            "id": "ANSWER_BEHAV_LT_CSAI_L4_SPECIFY_MASTURBATING_OTHER"
+                        },
+                        {
+                            "id": "ANSWER_BEHAV_LT_CSAI_L4_SPECIFY_SEX"
+                        }
+                    ],
+                    "type": "multi"
+                },
+                {
+                    "id": "QUESTION_BEHAV_LT_CSAI_L5",
+                    "description": "QUESTION_BEHAV_LT_CSAI_L5_DESCRIPTION",
+                    "group": {
+                        "description": "GROUP_BEHAV_LT_CSAI_L_DESCRIPTION"
+                    },
+                    "answers": [
+                        {
+                            "jump_to": "QUESTION_BEHAV_REC_CSAI_L0",
+                            "id": "ANSWER_BEHAV_LT_CSAI_L5_NO"
+                        },
+                        {
+                            "id": "ANSWER_BEHAV_LT_CSAI_L5_YES"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_BEHAV_LT_CSAI_L5_SPECIFY",
+                    "description": "QUESTION_BEHAV_LT_CSAI_L5_SPECIFY_DESCRIPTION",
+                    "group": {
+                        "description": "GROUP_BEHAV_LT_CSAI_L_DESCRIPTION"
+                    },
+                    "answers": [
+                        {
+                            "id": "ANSWER_BEHAV_LT_CSAI_L5_SPECIFY_TOUCHING"
+                        },
+                        {
+                            "id": "ANSWER_BEHAV_LT_CSAI_L5_SPECIFY_MASTURBATING"
+                        },
+                        {
+                            "id": "ANSWER_BEHAV_LT_CSAI_L5_SPECIFY_MASTURBATING_OTHER"
+                        },
+                        {
+                            "id": "ANSWER_BEHAV_LT_CSAI_L5_SPECIFY_SEX"
+                        },
+                        {
+                            "id": "ANSWER_BEHAV_LT_CSAI_L5_SPECIFY_VIOLENCE"
+                        }
+                    ],
+                    "type": "multi"
+                },
+                {
+                    "id": "QUESTION_BEHAV_REC_CSAI_L0",
+                    "description": "QUESTION_BEHAV_REC_CSAI_L0_DESCRIPTION",
+                    "group": {
+                        "description": "GROUP_BEHAV_REC_CSAI_L_DESCRIPTION"
+                    },
+                    "answers": [
+                        {
+                            "id": "ANSWER_BEHAV_REC_CSAI_L0_NO"
+                        },
+                        {
+                            "id": "ANSWER_BEHAV_REC_CSAI_L0_YES"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_BEHAV_REC_CSAI_L1",
+                    "description": "QUESTION_BEHAV_REC_CSAI_L1_DESCRIPTION",
+                    "group": {
+                        "description": "GROUP_BEHAV_REC_CSAI_L_DESCRIPTION"
+                    },
+                    "answers": [
+                        {
+                            "id": "ANSWER_BEHAV_REC_CSAI_L1_NO"
+                        },
+                        {
+                            "id": "ANSWER_BEHAV_REC_CSAI_L1_YES"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_BEHAV_REC_CSAI_L2",
+                    "description": "QUESTION_BEHAV_REC_CSAI_L2_DESCRIPTION",
+                    "group": {
+                        "description": "GROUP_BEHAV_REC_CSAI_L_DESCRIPTION"
+                    },
+                    "answers": [
+                        {
+                            "id": "ANSWER_BEHAV_REC_CSAI_L2_NO"
+                        },
+                        {
+                            "id": "ANSWER_BEHAV_REC_CSAI_L2_YES"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_BEHAV_REC_CSAI_L3",
+                    "description": "QUESTION_BEHAV_REC_CSAI_L3_DESCRIPTION",
+                    "group": {
+                        "description": "GROUP_BEHAV_REC_CSAI_L_DESCRIPTION"
+                    },
+                    "answers": [
+                        {
+                            "id": "ANSWER_BEHAV_REC_CSAI_L3_NO"
+                        },
+                        {
+                            "id": "ANSWER_BEHAV_REC_CSAI_L3_YES"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_BEHAV_REC_CSAI_L4",
+                    "description": "QUESTION_BEHAV_REC_CSAI_L4_DESCRIPTION",
+                    "group": {
+                        "description": "GROUP_BEHAV_REC_CSAI_L_DESCRIPTION"
+                    },
+                    "answers": [
+                        {
+                            "jump_to": "QUESTION_BEHAV_REC_CSAI_L5",
+                            "id": "ANSWER_BEHAV_REC_CSAI_L4_NO"
+                        },
+                        {
+                            "id": "ANSWER_BEHAV_REC_CSAI_L4_YES"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_BEHAV_REC_CSAI_L4_SPECIFY",
+                    "description": "QUESTION_BEHAV_REC_CSAI_L4_SPECIFY_DESCRIPTION",
+                    "group": {
+                        "description": "GROUP_BEHAV_REC_CSAI_L_DESCRIPTION"
+                    },
+                    "answers": [
+                        {
+                            "id": "ANSWER_BEHAV_REC_CSAI_L4_SPECIFY_TOUCHING"
+                        },
+                        {
+                            "id": "ANSWER_BEHAV_REC_CSAI_L4_SPECIFY_MASTURBATING"
+                        },
+                        {
+                            "id": "ANSWER_BEHAV_REC_CSAI_L4_SPECIFY_MASTURBATING_OTHER"
+                        },
+                        {
+                            "id": "ANSWER_BEHAV_REC_CSAI_L4_SPECIFY_SEX"
+                        }
+                    ],
+                    "type": "multi"
+                },
+                {
+                    "id": "QUESTION_BEHAV_REC_CSAI_L5",
+                    "description": "QUESTION_BEHAV_REC_CSAI_L5_DESCRIPTION",
+                    "group": {
+                        "description": "GROUP_BEHAV_REC_CSAI_L_DESCRIPTION"
+                    },
+                    "answers": [
+                        {
+                            "jump_to": "QUESTION_BEHAV_CSAI_AGE",
+                            "id": "ANSWER_BEHAV_REC_CSAI_L5_NO"
+                        },
+                        {
+                            "id": "ANSWER_BEHAV_REC_CSAI_L5_YES"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_BEHAV_REC_CSAI_L5_SPECIFY",
+                    "description": "QUESTION_BEHAV_REC_CSAI_L5_SPECIFY_DESCRIPTION",
+                    "group": {
+                        "description": "GROUP_BEHAV_REC_CSAI_L_DESCRIPTION"
+                    },
+                    "answers": [
+                        {
+                            "id": "ANSWER_BEHAV_REC_CSAI_L5_TOUCHING"
+                        },
+                        {
+                            "id": "ANSWER_BEHAV_REC_CSAI_L5_MASTURBATING"
+                        },
+                        {
+                            "id": "ANSWER_BEHAV_REC_CSAI_L5_MASTURBATING_OTHER"
+                        },
+                        {
+                            "id": "ANSWER_BEHAV_REC_CSAI_L5_SEX"
+                        },
+                        {
+                            "id": "ANSWER_BEHAV_REC_CSAI_L5_VIOLENCE"
+                        }
+                    ],
+                    "type": "multi"
+                },
+                {
+                    "id": "QUESTION_BEHAV_CSAI_AGE",
+                    "description": "QUESTION_BEHAV_CSAI_AGE_DESCRIPTION",
+                    "answers": {
+                        "id": "BEHAV_CSAI_AGE_"
+                    },
+                    "min": 0,
+                    "max": 99,
+                    "type": "number"
+                },
+                {
+                    "id": "QUESTION_BEHAV_CSAI_ADD",
+                    "description": "QUESTION_BEHAV_CSAI_ADD_DESCRIPTION",
+                    "answers": [
+                        {
+                            "id": "ANSWER_BEHAV_CSAI_ADD_TEXTS"
+                        },
+                        {
+                            "id": "ANSWER_BEHAV_CSAI_ADD_NONREAL_PICTURES"
+                        },
+                        {
+                            "id": "ANSWER_BEHAV_CSAI_ADD_SELF_TEXTS"
+                        },
+                        {
+                            "id": "ANSWER_BEHAV_CSAI_ADD_SELF_DRAWS"
+                        },
+                        {
+                            "id": "ANSWER_BEHAV_CSAI_ADD_NO_OTHER"
+                        }
+                    ],
+                    "type": "multi"
+                },
+                {
+                    "id": "QUESTION_BEHAV_CSAI_COLLECT",
+                    "description": "QUESTION_BEHAV_CSAI_COLLECT_DESCRIPTION",
+                    "answers": [
+                        {
+                            "jump_to": "QUESTION_BEHAV_CSAI_HF",
+                            "id": "ANSWER_BEHAV_CSAI_COLLECT_NO"
+                        },
+                        {
+                            "id": "ANSWER_BEHAV_CSAI_COLLECT_YES"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_BEHAV_CSAI_COLLECT_SPECIFY",
+                    "description": "QUESTION_BEHAV_CSAI_COLLECT_SPECIFY_DESCRIPTION",
+                    "answers": [
+                        {
+                            "id": "ANSWER_BEHAV_CSAI_COLLECT_SPECIFY_COUNT",
+                            "type": "number",
+                            "min": 0,
+                            "max": 99999
+
+                        },
+                        {
+                            "id": "ANSWER_BEHAV_CSAI_COLLECT_SPECIFY_MB",
+                            "type": "number",
+                            "min": 0,
+                            "max": 99999
+                        }
+                    ],
+                    "type": "multi"
+                },
+                {
+                    "id": "QUESTION_BEHAV_CSAI_HF",
+                    "description": "QUESTION_BEHAV_CSAI_HF_DESCRIPTION",
+                    "group": {
+                        "description": "GROUP_BEHAV_CSAI_HF_DESCRIPTION"
+                    },
+                    "answers": [
+                        {
+                            "id": "ANSWER_BEHAV_CSAI_HF_NO"
+                        },
+                        {
+                            "id": "ANSWER_BEHAV_CSAI_HF_PROSECUTED"
+                        },
+                        {
+                            "id": "ANSWER_BEHAV_CSAI_HF_SENTENCED"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_BEHAV_CSA_NON_SEX",
+                    "description": "QUESTION_BEHAV_CSA_NON_SEX_DESCRIPTION",
+                    "group": {
+                        "description": "GROUP_BEHAV_CSAI_HF_DESCRIPTION"
+                    },
+                    "answers": [
+                        {
+                            "id": "ANSWER_BEHAV_CSA_NON_SEX_NEVER"
+                        },
+                        {
+                            "id": "ANSWER_BEHAV_CSA_NON_SEX_SOME_TIME_AGO"
+                        },
+                        {
+                            "id": "ANSWER_BEHAV_CSA_NON_SEX_RECENTLY"
+                        },
+                        {
+                            "id": "ANSWER_BEHAV_CSA_NON_SEX_CURRENTLY"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_BEHAV_CSA_LOOK",
+                    "description": "QUESTION_BEHAV_CSA_LOOK_DESCRIPTION",
+                    "group": {
+                        "description": "GROUP_BEHAV_CSAI_HF_DESCRIPTION"
+                    },
+                    "answers": [
+                        {
+                            "id": "ANSWER_BEHAV_CSA_LOOK_NEVER"
+                        },
+                        {
+                            "id": "ANSWER_BEHAV_CSA_LOOK_SOME_TIME_AGO"
+                        },
+                        {
+                            "id": "ANSWER_BEHAV_CSA_LOOK_RECENTLY"
+                        },
+                        {
+                            "id": "ANSWER_BEHAV_CSA_LOOK_CURRENTLY"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_BEHAV_CSA_PHYS_CON",
+                    "description": "QUESTION_BEHAV_CSA_PHYS_CON_DESCRIPTION",
+                    "group": {
+                        "description": "GROUP_BEHAV_CSAI_HF_DESCRIPTION"
+                    },
+                    "answers": [
+                        {
+                            "id": "ANSWER_BEHAV_CSA_PHYS_CON_NEVER"
+                        },
+                        {
+                            "id": "ANSWER_BEHAV_CSA_PHYS_CON_SOME_TIME_AGO"
+                        },
+                        {
+                            "id": "ANSWER_BEHAV_CSA_PHYS_CON_RECENTLY"
+                        },
+                        {
+                            "id": "ANSWER_BEHAV_CSA_PHYS_CON_CURRENTLY"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_BEHAV_CSA_WATCH_INT",
+                    "description": "QUESTION_BEHAV_CSA_WATCH_INT_DESCRIPTION",
+                    "group": {
+                        "description": "GROUP_BEHAV_CSAI_HF_DESCRIPTION"
+                    },
+                    "answers": [
+                        {
+                            "id": "ANSWER_BEHAV_CSA_WATCH_INT_NEVER"
+                        },
+                        {
+                            "id": "ANSWER_BEHAV_CSA_WATCH_INT_SOME_TIME_AGO"
+                        },
+                        {
+                            "id": "ANSWER_BEHAV_CSA_WATCH_INT_RECENTLY"
+                        },
+                        {
+                            "id": "ANSWER_BEHAV_CSA_WATCH_INT_CURRENTLY"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_BEHAV_CSA_PIC",
+                    "description": "QUESTION_BEHAV_CSA_PIC_DESCRIPTION",
+                    "group": {
+                        "description": "GROUP_BEHAV_CSAI_HF_DESCRIPTION"
+                    },
+                    "answers": [
+                        {
+                            "id": "ANSWER_BEHAV_CSA_PIC_NEVER"
+                        },
+                        {
+                            "id": "ANSWER_BEHAV_CSA_PIC_SOME_TIME_AGO"
+                        },
+                        {
+                            "id": "ANSWER_BEHAV_CSA_PIC_RECENTLY"
+                        },
+                        {
+                            "id": "ANSWER_BEHAV_CSA_PIC_CURRENTLY"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_BEHAV_CSA_GROOM",
+                    "description": "QUESTION_BEHAV_CSA_GROOM_DESCRIPTION",
+                    "group": {
+                        "description": "GROUP_BEHAV_CSAI_HF_DESCRIPTION"
+                    },
+                    "answers": [
+                        {
+                            "id": "ANSWER_BEHAV_CSA_GROOM_NEVER"
+                        },
+                        {
+                            "id": "ANSWER_BEHAV_CSA_GROOM_SOME_TIME_AGO"
+                        },
+                        {
+                            "id": "ANSWER_BEHAV_CSA_GROOM_RECENTLY"
+                        },
+                        {
+                            "id": "ANSWER_BEHAV_CSA_GROOM_CURRENTLY"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_BEHAV_CSA_ENG_SEX_ACT",
+                    "description": "QUESTION_BEHAV_CSA_ENG_SEX_ACT_DESCRIPTION",
+                    "group": {
+                        "description": "GROUP_BEHAV_CSAI_HF_DESCRIPTION"
+                    },
+                    "answers": [
+                        {
+                            "id": "ANSWER_BEHAV_CSA_ENG_SEX_ACT_NEVER"
+                        },
+                        {
+                            "id": "ANSWER_BEHAV_CSA_ENG_SEX_ACT_SOME_TIME_AGO"
+                        },
+                        {
+                            "id": "ANSWER_BEHAV_CSA_ENG_SEX_ACT_RECENTLY"
+                        },
+                        {
+                            "id": "ANSWER_BEHAV_CSA_ENG_SEX_ACT_CURRENTLY"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_BEHAV_CSA_SEX_ACT_SHOW",
+                    "description": "QUESTION_BEHAV_CSA_SEX_ACT_SHOW_DESCRIPTION",
+                    "group": {
+                        "description": "GROUP_BEHAV_CSAI_HF_DESCRIPTION"
+                    },
+                    "answers": [
+                        {
+                            "id": "ANSWER_BEHAV_CSA_SEX_ACT_SHOW_NEVER"
+                        },
+                        {
+                            "id": "ANSWER_BEHAV_CSA_SEX_ACT_SHOW_SOME_TIME_AGO"
+                        },
+                        {
+                            "id": "ANSWER_BEHAV_CSA_SEX_ACT_SHOW_RECENTLY"
+                        },
+                        {
+                            "id": "ANSWER_BEHAV_CSA_SEX_ACT_SHOW_CURRENTLY"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_BEHAV_CSA_GEN_TOU",
+                    "description": "QUESTION_BEHAV_CSA_GEN_TOU_DESCRIPTION",
+                    "group": {
+                        "description": "GROUP_BEHAV_CSAI_HF_DESCRIPTION"
+                    },
+                    "answers": [
+                        {
+                            "id": "ANSWER_BEHAV_CSA_GEN_TOU_NEVER"
+                        },
+                        {
+                            "id": "ANSWER_BEHAV_CSA_GEN_TOU_SOME_TIME_AGO"
+                        },
+                        {
+                            "id": "ANSWER_BEHAV_CSA_GEN_TOU_RECENTLY"
+                        },
+                        {
+                            "id": "ANSWER_BEHAV_CSA_GEN_TOU_CURRENTLY"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_BEHAV_CSA_AOV",
+                    "description": "QUESTION_BEHAV_CSA_AOV_DESCRIPTION",
+                    "group": {
+                        "description": "GROUP_BEHAV_CSAI_HF_DESCRIPTION"
+                    },
+                    "answers": [
+                        {
+                            "id": "ANSWER_BEHAV_CSA_AOV_NEVER"
+                        },
+                        {
+                            "id": "ANSWER_BEHAV_CSA_AOV_SOME_TIME_AGO"
+                        },
+                        {
+                            "id": "ANSWER_BEHAV_CSA_AOV_RECENTLY"
+                        },
+                        {
+                            "id": "ANSWER_BEHAV_CSA_AOV_CURRENTLY"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_BEHAV_CSA_SEX_ACT",
+                    "description": "QUESTION_BEHAV_CSA_SEX_ACT_DESCRIPTION",
+                    "group": {
+                        "description": "GROUP_BEHAV_CSAI_HF_DESCRIPTION"
+                    },
+                    "answers": [
+                        {
+                            "id": "ANSWER_BEHAV_CSA_SEX_ACT_NEVER"
+                        },
+                        {
+                            "id": "ANSWER_BEHAV_CSA_SEX_ACT_SOME_TIME_AGO"
+                        },
+                        {
+                            "id": "ANSWER_BEHAV_CSA_SEX_ACT_RECENTLY"
+                        },
+                        {
+                            "id": "ANSWER_BEHAV_CSA_SEX_ACT_CURRENTLY"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_BEHAV_CSA_POV",
+                    "description": "QUESTION_BEHAV_CSA_POV_DESCRIPTION",
+                    "group": {
+                        "description": "GROUP_BEHAV_CSAI_HF_DESCRIPTION"
+                    },
+                    "answers": [
+                        {
+                            "id": "ANSWER_BEHAV_CSA_POV_NEVER"
+                        },
+                        {
+                            "id": "ANSWER_BEHAV_CSA_POV_SOME_TIME_AGO"
+                        },
+                        {
+                            "id": "ANSWER_BEHAV_CSA_POV_RECENTLY"
+                        },
+                        {
+                            "id": "ANSWER_BEHAV_CSA_POV_CURRENTLY"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_BEHAV_CSA_AAV",
+                    "description": "QUESTION_BEHAV_CSA_AAV_DESCRIPTION",
+                    "group": {
+                        "description": "GROUP_BEHAV_CSAI_HF_DESCRIPTION"
+                    },
+                    "answers": [
+                        {
+                            "id": "ANSWER_BEHAV_CSA_AAV_NEVER"
+                        },
+                        {
+                            "id": "ANSWER_BEHAV_CSA_AAV_SOME_TIME_AGO"
+                        },
+                        {
+                            "id": "ANSWER_BEHAV_CSA_AAV_RECENTLY"
+                        },
+                        {
+                            "id": "ANSWER_BEHAV_CSA_AAV_CURRENTLY"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_BEHAV_CSA_VIO",
+                    "description": "QUESTION_BEHAV_CSA_VIO_DESCRIPTION",
+                    "group": {
+                        "description": "GROUP_BEHAV_CSAI_HF_DESCRIPTION"
+                    },
+                    "answers": [
+                        {
+                            "id": "ANSWER_BEHAV_CSA_VIO_NEVER"
+                        },
+                        {
+                            "id": "ANSWER_BEHAV_CSA_VIO_SOME_TIME_AGO"
+                        },
+                        {
+                            "id": "ANSWER_BEHAV_CSA_VIO_RECENTLY"
+                        },
+                        {
+                            "id": "ANSWER_BEHAV_CSA_VIO_CURRENTLY"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_BEHAV_CSA_WHOM_HOW_OFTEN",
+                    "description": "QUESTION_BEHAV_CSA_WHOM_HOW_OFTEN_DESCRIPTION",
+                    "answers": [
+                        {
+                            "id": "ANSWER_BEHAV_CSA_WHOM_HOW_OFTEN_WITHIN_FAMILY",
+                            "type": "number",
+                            "min": 1,
+                            "max": 99
+                        },
+                        {
+                            "id": "ANSWER_BEHAV_CSA_WHOM_HOW_OFTEN_OUTSIDE_FAMILY",
+                            "type": "number",
+                            "min": 1,
+                            "max": 99
+                        },
+                        {
+                            "id": "ANSWER_BEHAV_CSA_WHOM_HOW_OFTEN_NONE"
+                        }
+                    ],
+                    "type": "multi"
+                },
+                {
+                    "id": "QUESTION_BEHAV_CSA_VIC_NO",
+                    "description": "QUESTION_BEHAV_CSA_VIC_NO_DESCRIPTION",
+                    "answers": {
+                        "id": "BEHAV_CSA_VIC_NO_sexual_contact"
+                    },
+                    "type": "number",
+                    "min": 1,
+                    "max": 999
+                },
+                {
+                    "id": "QUESTION_BEHAV_CSA_AGE_ME",
+                    "description": "QUESTION_BEHAV_CSA_AGE_ME_DESCRIPTION",
+                    "type": "range",
+                    "min": 1,
+                    "max": 99
+                },
+                {
+                    "id": "QUESTION_BEHAV_CSA_AGE_CHILDREN",
+                    "description": "QUESTION_BEHAV_CSA_AGE_CHILDREN_DESCRIPTION",
+                    "type": "range",
+                    "min": 1,
+                    "max": 99
+                },
+                {
+                    "id": "QUESTION_BEHAV_CSA_GEND",
+                    "description": "QUESTION_BEHAV_CSA_GEND_DESCRIPTION",
+                    "answers": [
+                        {
+                            "id": "ANSWER_BEHAV_CSA_GEND_BOYS"
+                        },
+                        {
+                            "id": "ANSWER_BEHAV_CSA_GEND_GIRLS"
+                        },
+                        {
+                            "id": "ANSWER_BEHAV_CSA_GEND_BOYS_GIRLS"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_BEHAV_CSA_REL",
+                    "description": "QUESTION_BEHAV_CSA_REL_DESCRIPTION",
+                    "answers": [
+                        {
+                            "id": "ANSWER_BEHAV_CSA_REL_BROTHER"
+                        },
+                        {
+                            "id": "ANSWER_BEHAV_CSA_REL_STEP_BROTHER"
+                        },
+                        {
+                            "id": "ANSWER_BEHAV_CSA_REL_FRIEND"
+                        },
+                        {
+                            "id": "ANSWER_BEHAV_CSA_REL_COACH"
+                        },
+                        {
+                            "id": "ANSWER_BEHAV_CSA_REL_FATHER"
+                        },
+                        {
+                            "id": "ANSWER_BEHAV_CSA_REL_RELATIVE"
+                        },
+                        {
+                            "id": "ANSWER_BEHAV_CSA_REL_CAREGIVER"
+                        },
+                        {
+                            "id": "ANSWER_BEHAV_CSA_REL_TEACHER"
+                        },
+                        {
+                            "id": "ANSWER_BEHAV_CSA_REL_NEIGHBOR"
+                        },
+                        {
+                            "id": "ANSWER_BEHAV_CSA_REL_ACQUAINTANCE"
+                        },
+                        {
+                            "id": "ANSWER_BEHAV_CSA_REL_HEALTH_CARE_PROVIDER"
+                        },
+                        {
+                            "id": "ANSWER_BEHAV_CSA_REL_PRIEST"
+                        },
+                        {
+                            "id": "ANSWER_BEHAV_CSA_REL_STRANGER"
+                        }
+                    ],
+                    "type": "multi"
+                },
+                {
+                    "id": "QUESTION_BEHAV_CSA_BOTHER",
+                    "description": "QUESTION_BEHAV_CSA_BOTHER_DESCRIPTION",
+                    "answers": [
+                        {
+                            "id": "ANSWER_BEHAV_CSA_BOTHER_NO"
+                        },
+                        {
+                            "id": "ANSWER_BEHAV_CSA_BOTHER_YES"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_BEHAV_CSA_HF",
+                    "description": "QUESTION_BEHAV_CSA_HF_DESCRIPTION",
+                    "answers": [
+                        {
+                            "id": "ANSWER_BEHAV_CSA_HF_NO"
+                        },
+                        {
+                            "id": "ANSWER_BEHAV_CSA_HF_PROSECUTED"
+                        },
+                        {
+                            "id": "ANSWER_BEHAV_CSA_HF_SENTENCED"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_BEHAV_CSA_SELF_VICT_YES_NO",
+                    "description": "QUESTION_BEHAV_CSA_SELF_VICT_DESCRIPTION",
+                    "answers": [
+                        {
+                            "id": "ANSWER_BEHAV_CSA_SELF_VICT_YES"
+                        },
+                        {
+                            "id": "ANSWER_BEHAV_CSA_SELF_VICT_NO",
+                            "jump_to": "QUESTION_LAST"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_BEHAV_CSA_SELF_VICT",
+                    "description": "QUESTION_BEHAV_CSA_SELF_VICT_DESCRIPTION",
+                    "answers": [
+                        {
+                            "id": "ANSWER_BEHAV_CSA_SELF_VICT_SPECIFY_IN_FAMILY_YES"
+                        },
+                        {
+                            "id": "ANSWER_BEHAV_CSA_SELF_VICT_SPECIFY_OUTSIDE_FAMILY_YES"
+                        }
+                    ],
+                    "type": "multi"
+                },
+                {
+                    "id": "QUESTION_BEHAV_CSA_SELF_VICT_FAMILY",
+                    "description": "QUESTION_BEHAV_CSA_SELF_VICT_FAMILY_DESCRIPTION",
+                    "answers": [
+                        {
+                            "id": "ANSWER_BEHAV_CSA_SELF_VICT_SPECIFY_IN_FAMILY_COUNT"
+                        },
+                        {
+                            "id": "ANSWER_BEHAV_CSA_SELF_VICT_SPECIFY_IN_FAMILY_AGE"
+                        }
+                    ],
+                    "type": "select"
+                },
+                {
+                    "id": "QUESTION_BEHAV_CSA_SELF_VICT_OUTSIDE",
+                    "description": "QUESTION_BEHAV_CSA_SELF_VICT_OUTSIDE_DESCRIPTION",
+                    "answers": [
+                        {
+                            "id": "ANSWER_BEHAV_CSA_SELF_VICT_SPECIFY_OUTSIDE_COUNT"
+                        },
+                        {
+                            "id": "ANSWER_BEHAV_CSA_SELF_VICT_SPECIFY_OUTSIDE_AGE"
+                        }
+                    ],
+                    "type": "select"
+                }
+            ]
+        }
+    ],
+    "groups": [
+        {
+            "id": "PREF_ABSTRACT_GROUP",
+            "image": "/images/all_nude.jpeg",
+            "title": "PREF_ABSTRACT_GROUP_TITLE",
+            "description": "PREF_ABSTRACT_GROUP_DESCRIPTION"
+        },
+        {
+            "id": "GROUP_PREF_F1",
+            "title": "GROUP_PREF_F1_TITLE",
+            "description": "GROUP_PREF_F1_DESCRIPTION",
+            "image": "/images/female1_nude.jpeg"
+        },
+        {
+            "id": "GROUP_PREF_M1",
+            "title": "GROUP_PREF_M1_TITLE",
+            "description": "GROUP_PREF_M1_DESCRIPTION",
+            "image": "/images/male1_nude.jpeg"
+        },
+        {
+            "id": "GROUP_PREF_F2",
+            "title": "GROUP_PREF_F2_TITLE",
+            "description": "GROUP_PREF_F2_DESCRIPTION",
+            "image": "/images/female2_nude.jpeg"
+        },
+        {
+            "id": "GROUP_PREF_M2",
+            "title": "GROUP_PREF_M2_TITLE",
+            "description": "GROUP_PREF_M2_DESCRIPTION",
+            "image": "/images/male2_nude.jpeg"
+        },
+        {
+            "id": "GROUP_PREF_F4_5",
+            "title": "GROUP_PREF_F4_5_TITLE",
+            "description": "GROUP_PREF_F4_5_DESCRIPTION",
+            "image": "/images/female3_nude.jpeg"
+        },
+        {
+            "id": "GROUP_PREF_M4",
+            "title": "GROUP_PREF_M4_TITLE",
+            "description": "GROUP_PREF_M4_DESCRIPTION",
+            "image": "/images/male3_nude.jpeg"
+        },
+        {
+            "id": "GROUP_PREF_FAN_ACT",
+            "title": "GROUP_PREF_FAN_ACT_TITLE",
+            "description": "GROUP_PREF_FAN_ACT_DESCRIPTION"
+        },
+        {
+            "id": "GROUP_PREF_FET",
+            "title": "GROUP_PREF_FET_TITLE",
+            "description": "GROUP_PREF_FET_DESCRIPTION"
+        },
+        {
+            "id": "GROUP_PREF_TRANS_FET",
+            "title": "GROUP_PREF_TRANS_FET_TITLE",
+            "description": "GROUP_PREF_TRANS_FET_DESCRIPTION"
+        },
+        {
+            "id": "GROUP_PREF_MASO",
+            "title": "GROUP_PREF_MASO_TITLE",
+            "description": "GROUP_PREF_MASO_DESCRIPTION"
+        },
+        {
+            "id": "GROUP_PREF_SAD",
+            "title": "GROUP_PREF_SAD_TITLE",
+            "description": "GROUP_PREF_SAD_DESCRIPTION"
+        },
+        {
+            "id": "GROUP_PREF_VOY",
+            "title": "GROUP_PREF_VOY_TITLE",
+            "description": "GROUP_PREF_VOY_DESCRIPTION"
+        },
+        {
+            "id": "GROUP_PREF_EXH",
+            "title": "GROUP_PREF_EXH_TITLE",
+            "description": "GROUP_PREF_EXH_DESCRIPTION"
+        },
+        {
+            "id": "GROUP_PREF_FROT",
+            "title": "GROUP_PREF_FROT_TITLE",
+            "description": "GROUP_PREF_FROT_DESCRIPTION"
+        },
+        {
+            "id": "GROUP_PREF_TOU",
+            "title": "GROUP_PREF_TOU_TITLE",
+            "description": "GROUP_PREF_TOU_DESCRIPTION"
+        },
+        {
+            "id": "GROUP_PREF_PART",
+            "title": "GROUP_PREF_PART_TITLE",
+            "description": "GROUP_PREF_PART_DESCRIPTION"
+        },
+        {
+            "id": "GROUP_PREF_PRACT",
+            "title": "GROUP_PREF_PRACT_TITLE",
+            "description": "GROUP_PREF_PRACT_DESCRIPTION"
+        },
+        {
+            "id": "GROUP_PREF_SPEC_ATT",
+            "title": "GROUP_PREF_SPEC_ATT_TITLE",
+            "description": "GROUP_PREF_SPEC_ATT_DESCRIPTION"
+        },
+        {
+            "id": "GROUP_PREF_PARTNER",
+            "title": "GROUP_PREF_PARTNER_TITLE",
+            "description": "GROUP_PREF_PARTNER_DESCRIPTION"
+        },
+        {
+            "id": "GROUP_BEHAV_PART1",
+            "description": "GROUP_BEHAV_PART1_DESCRIPTION",
+            "title": "GROUP_BEHAV_PART1_TITLE"
+        },
+        {
+            "id": "GROUP_BEHAV_LT_CSAI_L",
+            "description": "GROUP_BEHAV_LT_CSAI_L_DESCRIPTION",
+            "title": "GROUP_BEHAV_LT_CSAI_L_TITLE"
+        },
+        {
+            "id": "GROUP_BEHAV_REC_CSAI_L",
+            "description": "GROUP_BEHAV_REC_CSAI_L_DESCRIPTION",
+            "title": "GROUP_BEHAV_REC_CSAI_L_TITLE"
+        },
+        {
+            "id": "GROUP_BEHAV_CSAI_AGE",
+            "title": "GROUP_BEHAV_CSAI_AGE_TITLE",
+            "description": "GROUP_BEHAV_CSAI_AGE_DESCRIPTION"
+        },
+        {
+            "id": "GROUP_BEHAV_CSAI_ADD",
+            "title": "GROUP_BEHAV_CSAI_ADD_TITLE",
+            "description": "GROUP_BEHAV_CSAI_ADD_DESCRIPTION"
+        },
+        {
+            "id": "GROUP_BEHAV_CSAI_COLLECT",
+            "title": "GROUP_BEHAV_CSAI_COLLECT_TITLE",
+            "description": "GROUP_BEHAV_CSAI_COLLECT_DESCRIPTION"
+        },
+        {
+            "id": "GROUP_BEHAV_CSAI_HF",
+            "description": "GROUP_BEHAV_CSAI_HF_DESCRIPTION",
+            "title": "GROUP_BEHAV_CSAI_HF_TITLE"
+        },
+        {
+            "id": "GROUP_BEHAV_CSA",
+            "description": "GROUP_BEHAV_CSA_DESCRIPTION",
+            "title": "GROUP_BEHAV_CSA_TITLE"
+        },
+        {
+            "id": "GROUP_BEHAV_CSA_2",
+            "title": "GROUP_BEHAV_CSA_2_TITLE",
+            "description": "GROUP_BEHAV_CSA_2_DESCRIPTION"
+        },
+        {
+            "id": "GROUP_BEHAV_CSA_HF",
+            "title": "GROUP_BEHAV_CSA_HF_TITLE",
+            "description": "GROUP_BEHAV_CSA_HF_DESCRIPTION"
+        },
+        {
+            "id": "GROUP_BEHAV_CSA_SELF_VICT",
+            "title": "GROUP_BEHAV_CSA_SELF_VICT_TITLE",
+            "description": "GROUP_BEHAV_CSA_SELF_VICT_DESCRIPTION"
+        },
+        {
+            "id": "GROUP_SEX_PREF",
+            "title": "GROUP_SEX_PREF_TITLE",
+            "description": "GROUP_SEX_PREF_DESCRIPTION"
+        },
+        {
+            "id": "SEX_BEHAVIOR",
+            "title": "SEX_BEHAVIOR_TITLE",
+            "description": "SEX_BEHAVIOR_DESCRIPTION"
+        },
+        {
+            "id": "GRPUP_OPTIONS",
+            "title": "GROUP_OPTIONS_TITLE",
+            "description": "GRPUP_OPTIONS_DESCRIPTION"
+        }
+    ],
+    "testifies": [
+        {
+            "id": "GROUP_SEX_PREF_TITLE",
+            "list": [
+                "TESTIFY_SEXUAL_PREFERENCE_1",
+                "TESTIFY_SEXUAL_PREFERENCE_2",
+                "TESTIFY_SEXUAL_PREFERENCE_3"
+            ]
+        },
+        {
+            "id": "SEX_BEHAVIOR_TITLE"
+        },
+        {
+            "id": "TESTIFY_CONTACTS"
+        }
+    ]
+}
