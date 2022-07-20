@@ -8,13 +8,13 @@
         },
         {
             "path": "cz-assessment.html",
-            "size": 2163,
+            "size": 2164,
             "title": "assessment",
             "lang": "cz"
         },
         {
             "path": "cz-faq.html",
-            "size": 13439,
+            "size": 13440,
             "title": "faq",
             "lang": "cz"
         },
@@ -620,7 +620,7 @@
         },
         {
             "path": "hi-assessment.html",
-            "size": 3325,
+            "size": 3326,
             "title": "assessment",
             "lang": "hi"
         },
@@ -640,6 +640,12 @@
             "path": "hi-imprint.html",
             "size": 8367,
             "title": "imprint",
+            "lang": "hi"
+        },
+        {
+            "path": "hi-modules.html",
+            "size": 15175,
+            "title": "modules",
             "lang": "hi"
         },
         {
@@ -1080,12 +1086,12 @@
                 },
                 {
                     "path": "cz-assessment.html",
-                    "size": 2163,
+                    "size": 2164,
                     "title": "assessment"
                 },
                 {
                     "path": "cz-faq.html",
-                    "size": 13439,
+                    "size": 13440,
                     "title": "faq"
                 },
                 {
@@ -1615,7 +1621,7 @@
                 },
                 {
                     "path": "hi-assessment.html",
-                    "size": 3325,
+                    "size": 3326,
                     "title": "assessment"
                 },
                 {
@@ -1632,6 +1638,11 @@
                     "path": "hi-imprint.html",
                     "size": 8367,
                     "title": "imprint"
+                },
+                {
+                    "path": "hi-modules.html",
+                    "size": 15175,
+                    "title": "modules"
                 },
                 {
                     "path": "hi-privacy.html",
