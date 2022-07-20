@@ -677,7 +677,7 @@
     ["QUESTION_BEHAV_CSA_SELF_VICT_OUTSIDE", "Outside of your family. How many times have you been a victim of sexual abuse outside of your family?"],
     ["ANSWER_BEHAV_CSA_SELF_VICT_SPECIFY_OUTSIDE_COUNT", "Times:"],
     ["ANSWER_BEHAV_CSA_SELF_VICT_SPECIFY_OUTSIDE_AGE", "Please indicate your age range:"],
-    ["TESTIFY_SEXUAL_PREFERENCE_1", "You are most likely sexually attracted to {{SEX_PREF_1}} with body ages {{SEX_PREF_2}} ."],
+    ["TESTIFY_SEXUAL_PREFERENCE_1", "You are most likely sexually attracted to {{SEX_PREF_1}} with body ages {{SEX_PREF_2}}."],
     ["TESTIFY_SEXUAL_PREFERENCE_2", "Additionally you may have a {{SEX_PREF_3}} arousal pattern."],
     ["TESTIFY_SEXUAL_PREFERENCE_3", "{{SEX_PREF_4}}"],
     ["TESTIFY_SEXUAL_BEHAVIOR", "Based on your reply most likely you {{SEX_BEHAV_1}}"],
