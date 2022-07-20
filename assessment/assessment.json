@@ -350,7 +350,7 @@
                     "group": {
                         "title": "GROUP_PREF_F1_TITLE",
                         "description": "GROUP_PREF_F1_DESCRIPTION",
-                        "image": "/images/female1_nude.jpeg"
+                        "image": "/images/female1_nude.jpg"
                     },
                     "answers": [
                         {
@@ -369,7 +369,7 @@
                     "group": {
                         "title": "GROUP_PREF_F1_TITLE",
                         "description": "GROUP_PREF_F1_DESCRIPTION",
-                        "image": "/images/female1_nude.jpeg"
+                        "image": "/images/female1_nude.jpg"
                     },
                     "answers": [
                         {
@@ -388,7 +388,7 @@
                     "group": {
                         "title": "GROUP_PREF_F1_TITLE",
                         "description": "GROUP_PREF_F1_DESCRIPTION",
-                        "image": "/images/female1_nude.jpeg"
+                        "image": "/images/female1_nude.jpg"
                     },
                     "answers": [
                         {
@@ -409,7 +409,7 @@
                     "group": {
                         "title": "GROUP_PREF_F1_TITLE",
                         "description": "GROUP_PREF_F1_DESCRIPTION",
-                        "image": "/images/female1_nude.jpeg"
+                        "image": "/images/female1_nude.jpg"
                     },
                     "answers": [
                         {
@@ -427,7 +427,7 @@
                     "group": {
                         "title": "GROUP_PREF_F1_TITLE",
                         "description": "GROUP_PREF_F1_DESCRIPTION",
-                        "image": "/images/female1_nude.jpeg"
+                        "image": "/images/female1_nude.jpg"
                     },
                     "answers": [
                         {
@@ -445,7 +445,7 @@
                     "group": {
                         "title": "GROUP_PREF_M1_TITLE",
                         "description": "GROUP_PREF_M1_DESCRIPTION",
-                        "image": "/images/male1_nude.jpeg"
+                        "image": "/images/male1_nude.jpg"
                     },
                     "answers": [
                         {
@@ -464,7 +464,7 @@
                     "group": {
                         "title": "GROUP_PREF_M1_TITLE",
                         "description": "GROUP_PREF_M1_DESCRIPTION",
-                        "image": "/images/male1_nude.jpeg"
+                        "image": "/images/male1_nude.jpg"
                     },
                     "answers": [
                         {
@@ -483,7 +483,7 @@
                     "group": {
                         "title": "GROUP_PREF_M1_TITLE",
                         "description": "GROUP_PREF_M1_DESCRIPTION",
-                        "image": "/images/male1_nude.jpeg"
+                        "image": "/images/male1_nude.jpg"
                     },
                     "answers": [
                         {
@@ -504,7 +504,7 @@
                     "group": {
                         "title": "GROUP_PREF_M1_TITLE",
                         "description": "GROUP_PREF_M1_DESCRIPTION",
-                        "image": "/images/male1_nude.jpeg"
+                        "image": "/images/male1_nude.jpg"
                     },
                     "answers": [
                         {
@@ -522,7 +522,7 @@
                     "group": {
                         "title": "GROUP_PREF_M1_TITLE",
                         "description": "GROUP_PREF_M1_DESCRIPTION",
-                        "image": "/images/male1_nude.jpeg"
+                        "image": "/images/male1_nude.jpg"
                     },
                     "answers": [
                         {
@@ -540,7 +540,7 @@
                     "group": {
                         "title": "GROUP_PREF_F2_TITLE",
                         "description": "GROUP_PREF_F2_DESCRIPTION",
-                        "image": "/images/female2_nude.jpeg"
+                        "image": "/images/female2_nude.jpg"
                     },
                     "answers": [
                         {
@@ -559,7 +559,7 @@
                     "group": {
                         "title": "GROUP_PREF_F2_TITLE",
                         "description": "GROUP_PREF_F2_DESCRIPTION",
-                        "image": "/images/female2_nude.jpeg"
+                        "image": "/images/female2_nude.jpg"
                     },
                     "answers": [
                         {
@@ -578,7 +578,7 @@
                     "group": {
                         "title": "GROUP_PREF_F2_TITLE",
                         "description": "GROUP_PREF_F2_DESCRIPTION",
-                        "image": "/images/female2_nude.jpeg"
+                        "image": "/images/female2_nude.jpg"
                     },
                     "answers": [
                         {
@@ -599,7 +599,7 @@
                     "group": {
                         "title": "GROUP_PREF_F2_TITLE",
                         "description": "GROUP_PREF_F2_DESCRIPTION",
-                        "image": "/images/female2_nude.jpeg"
+                        "image": "/images/female2_nude.jpg"
                     },
                     "answers": [
                         {
@@ -617,7 +617,7 @@
                     "group": {
                         "title": "GROUP_PREF_F2_TITLE",
                         "description": "GROUP_PREF_F2_DESCRIPTION",
-                        "image": "/images/female2_nude.jpeg"
+                        "image": "/images/female2_nude.jpg"
                     },
                     "answers": [
                         {
@@ -635,7 +635,7 @@
                     "group": {
                         "title": "GROUP_PREF_M2_TITLE",
                         "description": "GROUP_PREF_M2_DESCRIPTION",
-                        "image": "/images/male2_nude.jpeg"
+                        "image": "/images/male2_nude.jpg"
                     },
                     "answers": [
                         {
@@ -654,7 +654,7 @@
                     "group": {
                         "title": "GROUP_PREF_M2_TITLE",
                         "description": "GROUP_PREF_M2_DESCRIPTION",
-                        "image": "/images/male2_nude.jpeg"
+                        "image": "/images/male2_nude.jpg"
                     },
                     "answers": [
                         {
@@ -673,7 +673,7 @@
                     "group": {
                         "title": "GROUP_PREF_M2_TITLE",
                         "description": "GROUP_PREF_M2_DESCRIPTION",
-                        "image": "/images/male2_nude.jpeg"
+                        "image": "/images/male2_nude.jpg"
                     },
                     "answers": [
                         {
@@ -694,7 +694,7 @@
                     "group": {
                         "title": "GROUP_PREF_M2_TITLE",
                         "description": "GROUP_PREF_M2_DESCRIPTION",
-                        "image": "/images/male2_nude.jpeg"
+                        "image": "/images/male2_nude.jpg"
                     },
                     "answers": [
                         {
@@ -712,7 +712,7 @@
                     "group": {
                         "title": "GROUP_PREF_M2_TITLE",
                         "description": "GROUP_PREF_M2_DESCRIPTION",
-                        "image": "/images/male2_nude.jpeg"
+                        "image": "/images/male2_nude.jpg"
                     },
                     "answers": [
                         {
@@ -730,7 +730,7 @@
                     "group": {
                         "title": "GROUP_PREF_F4_5_TITLE",
                         "description": "GROUP_PREF_F4_5_DESCRIPTION",
-                        "image": "/images/female3_nude.jpeg"
+                        "image": "/images/female3_nude.jpg"
                     },
                     "answers": [
                         {
@@ -749,7 +749,7 @@
                     "group": {
                         "title": "GROUP_PREF_F4_5_TITLE",
                         "description": "GROUP_PREF_F4_5_DESCRIPTION",
-                        "image": "/images/female3_nude.jpeg"
+                        "image": "/images/female3_nude.jpg"
                     },
                     "answers": [
                         {
@@ -768,7 +768,7 @@
                     "group": {
                         "title": "GROUP_PREF_F4_5_TITLE",
                         "description": "GROUP_PREF_F4_5_DESCRIPTION",
-                        "image": "/images/female3_nude.jpeg"
+                        "image": "/images/female3_nude.jpg"
                     },
                     "answers": [
                         {
@@ -789,7 +789,7 @@
                     "group": {
                         "title": "GROUP_PREF_F4_5_TITLE",
                         "description": "GROUP_PREF_F4_5_DESCRIPTION",
-                        "image": "/images/female3_nude.jpeg"
+                        "image": "/images/female3_nude.jpg"
                     },
                     "answers": [
                         {
@@ -807,7 +807,7 @@
                     "group": {
                         "title": "GROUP_PREF_F4_5_TITLE",
                         "description": "GROUP_PREF_F4_5_DESCRIPTION",
-                        "image": "/images/female3_nude.jpeg"
+                        "image": "/images/female3_nude.jpg"
                     },
                     "answers": [
                         {
@@ -825,7 +825,7 @@
                     "group": {
                         "title": "GROUP_PREF_M4_TITLE",
                         "description": "GROUP_PREF_M4_DESCRIPTION",
-                        "image": "/images/male3_nude.jpeg"
+                        "image": "/images/male3_nude.jpg"
                     },
                     "answers": [
                         {
@@ -844,7 +844,7 @@
                     "group": {
                         "title": "GROUP_PREF_M4_TITLE",
                         "description": "GROUP_PREF_M4_DESCRIPTION",
-                        "image": "/images/male3_nude.jpeg"
+                        "image": "/images/male3_nude.jpg"
                     },
                     "answers": [
                         {
@@ -863,7 +863,7 @@
                     "group": {
                         "title": "GROUP_PREF_M4_TITLE",
                         "description": "GROUP_PREF_M4_DESCRIPTION",
-                        "image": "/images/male3_nude.jpeg"
+                        "image": "/images/male3_nude.jpg"
                     },
                     "answers": [
                         {
@@ -884,7 +884,7 @@
                     "group": {
                         "title": "GROUP_PREF_M4_TITLE",
                         "description": "GROUP_PREF_M4_DESCRIPTION",
-                        "image": "/images/male3_nude.jpeg"
+                        "image": "/images/male3_nude.jpg"
                     },
                     "answers": [
                         {
@@ -902,7 +902,7 @@
                     "group": {
                         "title": "GROUP_PREF_M4_TITLE",
                         "description": "GROUP_PREF_M4_DESCRIPTION",
-                        "image": "/images/male3_nude.jpeg"
+                        "image": "/images/male3_nude.jpg"
                     },
                     "answers": [
                         {
@@ -3179,7 +3179,7 @@
     "groups": [
         {
             "id": "PREF_ABSTRACT_GROUP",
-            "image": "/images/all_nude.jpeg",
+            "image": "/images/all_nude.jpg",
             "title": "PREF_ABSTRACT_GROUP_TITLE",
             "description": "PREF_ABSTRACT_GROUP_DESCRIPTION"
         },
@@ -3187,37 +3187,37 @@
             "id": "GROUP_PREF_F1",
             "title": "GROUP_PREF_F1_TITLE",
             "description": "GROUP_PREF_F1_DESCRIPTION",
-            "image": "/images/female1_nude.jpeg"
+            "image": "/images/female1_nude.jpg"
         },
         {
             "id": "GROUP_PREF_M1",
             "title": "GROUP_PREF_M1_TITLE",
             "description": "GROUP_PREF_M1_DESCRIPTION",
-            "image": "/images/male1_nude.jpeg"
+            "image": "/images/male1_nude.jpg"
         },
         {
             "id": "GROUP_PREF_F2",
             "title": "GROUP_PREF_F2_TITLE",
             "description": "GROUP_PREF_F2_DESCRIPTION",
-            "image": "/images/female2_nude.jpeg"
+            "image": "/images/female2_nude.jpg"
         },
         {
             "id": "GROUP_PREF_M2",
             "title": "GROUP_PREF_M2_TITLE",
             "description": "GROUP_PREF_M2_DESCRIPTION",
-            "image": "/images/male2_nude.jpeg"
+            "image": "/images/male2_nude.jpg"
         },
         {
             "id": "GROUP_PREF_F4_5",
             "title": "GROUP_PREF_F4_5_TITLE",
             "description": "GROUP_PREF_F4_5_DESCRIPTION",
-            "image": "/images/female3_nude.jpeg"
+            "image": "/images/female3_nude.jpg"
         },
         {
             "id": "GROUP_PREF_M4",
             "title": "GROUP_PREF_M4_TITLE",
             "description": "GROUP_PREF_M4_DESCRIPTION",
-            "image": "/images/male3_nude.jpeg"
+            "image": "/images/male3_nude.jpg"
         },
         {
             "id": "GROUP_PREF_FAN_ACT",
