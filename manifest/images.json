@@ -60,6 +60,11 @@
         "mime": "image/jpeg"
     },
     {
+        "path": "indian-5.jpg",
+        "size": 31937,
+        "mime": "image/jpeg"
+    },
+    {
         "path": "kein_taeter_werden.jpg",
         "size": 55401,
         "mime": "image/jpeg"

@@ -1,14 +1,50 @@
 {
     "all": [
         {
+            "path": "cz-about.html",
+            "size": 4361,
+            "title": "about",
+            "lang": "cz"
+        },
+        {
+            "path": "cz-assessment.html",
+            "size": 2163,
+            "title": "assessment",
+            "lang": "cz"
+        },
+        {
+            "path": "cz-faq.html",
+            "size": 13439,
+            "title": "faq",
+            "lang": "cz"
+        },
+        {
             "path": "cz-home.html",
             "size": 4163,
             "title": "home",
             "lang": "cz"
         },
         {
+            "path": "cz-imprint.html",
+            "size": 4950,
+            "title": "imprint",
+            "lang": "cz"
+        },
+        {
+            "path": "cz-modules.html",
+            "size": 8719,
+            "title": "modules",
+            "lang": "cz"
+        },
+        {
+            "path": "cz-privacy.html",
+            "size": 11826,
+            "title": "privacy",
+            "lang": "cz"
+        },
+        {
             "path": "de-about.html",
-            "size": 4363,
+            "size": 4342,
             "title": "about",
             "lang": "de"
         },
@@ -578,8 +614,14 @@
         },
         {
             "path": "hi-about.html",
-            "size": 8925,
+            "size": 9317,
             "title": "about",
+            "lang": "hi"
+        },
+        {
+            "path": "hi-assessment.html",
+            "size": 3325,
+            "title": "assessment",
             "lang": "hi"
         },
         {
@@ -1032,9 +1074,39 @@
             "cz",
             [
                 {
+                    "path": "cz-about.html",
+                    "size": 4361,
+                    "title": "about"
+                },
+                {
+                    "path": "cz-assessment.html",
+                    "size": 2163,
+                    "title": "assessment"
+                },
+                {
+                    "path": "cz-faq.html",
+                    "size": 13439,
+                    "title": "faq"
+                },
+                {
                     "path": "cz-home.html",
                     "size": 4163,
                     "title": "home"
+                },
+                {
+                    "path": "cz-imprint.html",
+                    "size": 4950,
+                    "title": "imprint"
+                },
+                {
+                    "path": "cz-modules.html",
+                    "size": 8719,
+                    "title": "modules"
+                },
+                {
+                    "path": "cz-privacy.html",
+                    "size": 11826,
+                    "title": "privacy"
                 }
             ]
         ],
@@ -1043,7 +1115,7 @@
             [
                 {
                     "path": "de-about.html",
-                    "size": 4363,
+                    "size": 4342,
                     "title": "about"
                 },
                 {
@@ -1538,8 +1610,13 @@
             [
                 {
                     "path": "hi-about.html",
-                    "size": 8925,
+                    "size": 9317,
                     "title": "about"
+                },
+                {
+                    "path": "hi-assessment.html",
+                    "size": 3325,
+                    "title": "assessment"
                 },
                 {
                     "path": "hi-faq.html",
