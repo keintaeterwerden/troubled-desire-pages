@@ -317,7 +317,8 @@
                             "id": "ANSWER_SOZ_DEM_RELI_NO"
                         }
                     ],
-                    "type": "select"
+                    "type": "select",
+                    "optional":  true
                 },
                 {
                     "id": "QUESTION_SOZ_DEM_RELI_SPECIFY",
