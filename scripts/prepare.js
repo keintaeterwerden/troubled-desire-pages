@@ -9,6 +9,13 @@ const mimes =
         ),
     );
 
+const translations =
+    JSON.parse(
+        fs
+            .readFileSync('../translations.json')
+            .toString(),
+    );
+
 const images =
     fs.readdirSync('../images')
         .filter(file =>
@@ -78,15 +85,32 @@ for (const page of pages) {
 
 fs.writeFileSync(
     '../manifest/images.json',
-    JSON.stringify(image_manifest, null, 4),
+    JSON.stringify(
+        image_manifest,
+        null,
+        4,
+    ),
 );
 
 fs.writeFileSync(
     '../manifest/pages.json',
-    JSON.stringify({
-        ...pages_manifest,
-        lang: Array.from(pages_manifest.lang),
-    }, null, 4),
+    JSON.stringify(
+        {
+            ...pages_manifest,
+            lang: Array.from(pages_manifest.lang),
+        },
+        null,
+        4,
+    ),
+);
+
+fs.writeFileSync(
+    '../manifest/translations.json',
+    JSON.stringify(
+        translations,
+        null,
+        4,
+    ),
 );
 
 // a list of all titles and the languages they appear in
