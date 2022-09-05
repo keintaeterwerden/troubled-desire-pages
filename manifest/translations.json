@@ -1,0 +1,98 @@
+[
+    {
+        "name": "English (EN)",
+        "slug": "en",
+        "faq": "FAQ",
+        "about": "ABOUT",
+        "imprint": "IMPRINT",
+        "privacy": "PRIVACY"
+    },
+    {
+        "name": "Deutsch (DE)",
+        "slug": "de",
+        "faq": "FAQ",
+        "about": "ÜBER UNS",
+        "imprint": "IMPRESSUM",
+        "privacy": "DATENSCHUTZ"
+    },
+    {
+        "name": "Español (ES)",
+        "slug": "es",
+        "faq": "FAQ",
+        "about": "SOBRE NOSOTROS",
+        "imprint": "INFORMACIÓN LEGA",
+        "privacy": "PRIVACIDAD"
+    },
+    {
+        "name": "Português (PT)",
+        "slug": "pt",
+        "faq": "FAQ",
+        "about": "SOBRE NÓS",
+        "imprint": "AVISO LEGAL",
+        "privacy": "PROTEÇÃO DE DADOS"
+    },
+    {
+        "name": "Português-BR (PT)",
+        "slug": "pt-br",
+        "faq": "FAQ",
+        "about": "SOBRE NÓS",
+        "imprint": "AVISO LEGAL",
+        "privacy": "PROTEÇÃO DE DADOS"
+    },
+    {
+        "name": "Français (FR)",
+        "slug": "fr",
+        "faq": "FAQ",
+        "about": "QUI SOMMES NOUS?",
+        "imprint": "MENTIONS LÉGALES",
+        "privacy": "PDP"
+    },
+    {
+        "name": "Čeština (CZ)",
+        "slug": "cz",
+        "faq": "FAQ",
+        "about": "o nás",
+        "imprint": "OTISK",
+        "privacy": "SOUKROMÍ"
+    },
+    {
+        "name": "Italiano (IT)",
+        "slug": "it",
+        "faq": "FAQ",
+        "about": "CHI SIAMO",
+        "imprint": "RESPONSABILITÀ PER I CONTENUTI",
+        "privacy": "NORMATIVA SULLA PRIVACY"
+    },
+    {
+        "name": "Pусский (RU)",
+        "slug": "ru",
+        "faq": "FAQ",
+        "about": "О НАС",
+        "imprint": "ВЫХОДНЫЕ ДАННЫЕ",
+        "privacy": "КОНФИДЕНЦИАЛЬНОСТЬ"
+    },
+    {
+        "name": "Türk (TR)",
+        "slug": "tr",
+        "faq": "FAQ",
+        "about": "BİZİM HAKKIMIZDA",
+        "imprint": "KÜNYE",
+        "privacy": "PRİVACY"
+    },
+    {
+        "name": "हिन्दी (HI)",
+        "slug": "hi",
+        "faq": "अकसर पूछे जाने वाले प्रश्न",
+        "about": "के बारे में",
+        "imprint": "इमप्रिंट",
+        "privacy": "निजता"
+    },
+    {
+        "name": "मराठी (MR)",
+        "slug": "mr",
+        "faq": "वारंवार विचारले जाणारे प्रश्न",
+        "about": "बद्दल",
+        "imprint": "छाप",
+        "privacy": "गुप्तता"
+    }
+]
