@@ -38,7 +38,7 @@ const pages_manifest = {
 };
 
 for (const page of pages) {
-    const page_parts = page.match(/([a-z]{2,}(?:-[a-z]{2})?)-(.*).html$/);
+    const page_parts = page.match(/([a-z]{2,}(?:-[a-z]{2,})?)-(.*).html$/i);
 
     const lang = page_parts[1];
     const title = page_parts[2];
