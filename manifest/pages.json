@@ -134,7 +134,7 @@
         },
         {
             "path": "bn-privacy.html",
-            "size": 27797,
+            "size": 26990,
             "title": "privacy",
             "lang": "bn"
         },
@@ -278,7 +278,7 @@
         },
         {
             "path": "cz-privacy.html",
-            "size": 11826,
+            "size": 11358,
             "title": "privacy",
             "lang": "cz"
         },
@@ -416,7 +416,7 @@
         },
         {
             "path": "de-privacy.html",
-            "size": 14042,
+            "size": 13559,
             "title": "privacy",
             "lang": "de"
         },
@@ -566,7 +566,7 @@
         },
         {
             "path": "en-privacy.html",
-            "size": 12320,
+            "size": 11896,
             "title": "privacy",
             "lang": "en"
         },
@@ -710,7 +710,7 @@
         },
         {
             "path": "es-privacy.html",
-            "size": 7514,
+            "size": 7044,
             "title": "privacy",
             "lang": "es"
         },
@@ -848,7 +848,7 @@
         },
         {
             "path": "fr-privacy.html",
-            "size": 9447,
+            "size": 8842,
             "title": "privacy",
             "lang": "fr"
         },
@@ -986,7 +986,7 @@
         },
         {
             "path": "hi-privacy.html",
-            "size": 20851,
+            "size": 17017,
             "title": "privacy",
             "lang": "hi"
         },
@@ -1274,7 +1274,7 @@
         },
         {
             "path": "pt-br-privacy.html",
-            "size": 12330,
+            "size": 11906,
             "title": "privacy",
             "lang": "pt-br"
         },
@@ -1400,7 +1400,7 @@
         },
         {
             "path": "pt-privacy.html",
-            "size": 8700,
+            "size": 8190,
             "title": "privacy",
             "lang": "pt"
         },
@@ -1538,7 +1538,7 @@
         },
         {
             "path": "ru-privacy.html",
-            "size": 8033,
+            "size": 7591,
             "title": "privacy",
             "lang": "ru"
         }
@@ -1579,7 +1579,7 @@
                 },
                 {
                     "path": "bn-privacy.html",
-                    "size": 27797,
+                    "size": 26990,
                     "title": "privacy"
                 },
                 {
@@ -1709,7 +1709,7 @@
                 },
                 {
                     "path": "cz-privacy.html",
-                    "size": 11826,
+                    "size": 11358,
                     "title": "privacy"
                 }
             ]
@@ -1834,7 +1834,7 @@
                 },
                 {
                     "path": "de-privacy.html",
-                    "size": 14042,
+                    "size": 13559,
                     "title": "privacy"
                 },
                 {
@@ -1974,7 +1974,7 @@
                 },
                 {
                     "path": "en-privacy.html",
-                    "size": 12320,
+                    "size": 11896,
                     "title": "privacy"
                 },
                 {
@@ -2104,7 +2104,7 @@
                 },
                 {
                     "path": "es-privacy.html",
-                    "size": 7514,
+                    "size": 7044,
                     "title": "privacy"
                 }
             ]
@@ -2229,7 +2229,7 @@
                 },
                 {
                     "path": "fr-privacy.html",
-                    "size": 9447,
+                    "size": 8842,
                     "title": "privacy"
                 }
             ]
@@ -2354,7 +2354,7 @@
                 },
                 {
                     "path": "hi-privacy.html",
-                    "size": 20851,
+                    "size": 17017,
                     "title": "privacy"
                 }
             ]
@@ -2604,7 +2604,7 @@
                 },
                 {
                     "path": "pt-privacy.html",
-                    "size": 8700,
+                    "size": 8190,
                     "title": "privacy"
                 }
             ]
@@ -2724,7 +2724,7 @@
                 },
                 {
                     "path": "pt-br-privacy.html",
-                    "size": 12330,
+                    "size": 11906,
                     "title": "privacy"
                 }
             ]
@@ -2849,7 +2849,7 @@
                 },
                 {
                     "path": "ru-privacy.html",
-                    "size": 8033,
+                    "size": 7591,
                     "title": "privacy"
                 }
             ]
