@@ -26,7 +26,7 @@
         },
         {
             "path": "bn-imprint.html",
-            "size": 9657,
+            "size": 9500,
             "title": "imprint",
             "lang": "bn"
         },
@@ -170,7 +170,7 @@
         },
         {
             "path": "cz-imprint.html",
-            "size": 4950,
+            "size": 5035,
             "title": "imprint",
             "lang": "cz"
         },
@@ -458,7 +458,7 @@
         },
         {
             "path": "en-imprint.html",
-            "size": 4959,
+            "size": 5030,
             "title": "imprint",
             "lang": "en"
         },
@@ -602,7 +602,7 @@
         },
         {
             "path": "es-imprint.html",
-            "size": 3936,
+            "size": 3887,
             "title": "imprint",
             "lang": "es"
         },
@@ -740,7 +740,7 @@
         },
         {
             "path": "fr-imprint.html",
-            "size": 3981,
+            "size": 3989,
             "title": "imprint",
             "lang": "fr"
         },
@@ -878,7 +878,7 @@
         },
         {
             "path": "hi-imprint.html",
-            "size": 8367,
+            "size": 6993,
             "title": "imprint",
             "lang": "hi"
         },
@@ -1016,7 +1016,7 @@
         },
         {
             "path": "mr-imprint.html",
-            "size": 8193,
+            "size": 7931,
             "title": "imprint",
             "lang": "mr"
         },
@@ -1166,7 +1166,7 @@
         },
         {
             "path": "pt-br-imprint.html",
-            "size": 4873,
+            "size": 5083,
             "title": "imprint",
             "lang": "pt-br"
         },
@@ -1292,7 +1292,7 @@
         },
         {
             "path": "pt-imprint.html",
-            "size": 3924,
+            "size": 3882,
             "title": "imprint",
             "lang": "pt"
         },
@@ -1430,7 +1430,7 @@
         },
         {
             "path": "ru-imprint.html",
-            "size": 3578,
+            "size": 3540,
             "title": "imprint",
             "lang": "ru"
         },
@@ -1569,7 +1569,7 @@
                 },
                 {
                     "path": "bn-imprint.html",
-                    "size": 9657,
+                    "size": 9500,
                     "title": "imprint"
                 },
                 {
@@ -1699,7 +1699,7 @@
                 },
                 {
                     "path": "cz-imprint.html",
-                    "size": 4950,
+                    "size": 5035,
                     "title": "imprint"
                 },
                 {
@@ -1964,7 +1964,7 @@
                 },
                 {
                     "path": "en-imprint.html",
-                    "size": 4959,
+                    "size": 5030,
                     "title": "imprint"
                 },
                 {
@@ -2094,7 +2094,7 @@
                 },
                 {
                     "path": "es-imprint.html",
-                    "size": 3936,
+                    "size": 3887,
                     "title": "imprint"
                 },
                 {
@@ -2219,7 +2219,7 @@
                 },
                 {
                     "path": "fr-imprint.html",
-                    "size": 3981,
+                    "size": 3989,
                     "title": "imprint"
                 },
                 {
@@ -2344,7 +2344,7 @@
                 },
                 {
                     "path": "hi-imprint.html",
-                    "size": 8367,
+                    "size": 6993,
                     "title": "imprint"
                 },
                 {
@@ -2469,7 +2469,7 @@
                 },
                 {
                     "path": "mr-imprint.html",
-                    "size": 8193,
+                    "size": 7931,
                     "title": "imprint"
                 },
                 {
@@ -2594,7 +2594,7 @@
                 },
                 {
                     "path": "pt-imprint.html",
-                    "size": 3924,
+                    "size": 3882,
                     "title": "imprint"
                 },
                 {
@@ -2634,7 +2634,7 @@
                 },
                 {
                     "path": "pt-br-imprint.html",
-                    "size": 4873,
+                    "size": 5083,
                     "title": "imprint"
                 },
                 {
@@ -2839,7 +2839,7 @@
                 },
                 {
                     "path": "ru-imprint.html",
-                    "size": 3578,
+                    "size": 3540,
                     "title": "imprint"
                 },
                 {
