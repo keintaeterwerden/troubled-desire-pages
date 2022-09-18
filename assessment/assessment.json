@@ -3040,6 +3040,60 @@
                     "type": "select"
                 },
                 {
+                    "jump_to": "QUESTION_BEHAV_CSA_HF",
+                    "answers": [
+                        {
+                            "id": "QUESTION_BEHAV_CSA_PHYS_CON",
+                            "answer_id": "ANSWER_BEHAV_CSA_PHYS_CON_NEVER"
+                        },
+                        {
+                            "id": "QUESTION_BEHAV_CSA_WATCH_INT",
+                            "answer_id": "ANSWER_BEHAV_CSA_WATCH_INT_NEVER"
+                        },
+                        {
+                            "id": "QUESTION_BEHAV_CSA_PIC",
+                            "answer_id": "ANSWER_BEHAV_CSA_PIC_NEVER"
+                        },
+                        {
+                            "id": "QUESTION_BEHAV_CSA_GROOM",
+                            "answer_id": "ANSWER_BEHAV_CSA_GROOM_NEVER"
+                        },
+                        {
+                            "id": "QUESTION_BEHAV_CSA_ENG_SEX_ACT",
+                            "answer_id": "ANSWER_BEHAV_CSA_ENG_SEX_ACT_NEVER"
+                        },
+                        {
+                            "id": "QUESTION_BEHAV_CSA_SEX_ACT_SHOW",
+                            "answer_id": "ANSWER_BEHAV_CSA_SEX_ACT_SHOW_NEVER"
+                        },
+                        {
+                            "id": "QUESTION_BEHAV_CSA_GEN_TOU",
+                            "answer_id": "ANSWER_BEHAV_CSA_GEN_TOU_NEVER"
+                        },
+                        {
+                            "id": "QUESTION_BEHAV_CSA_AOV",
+                            "answer_id": "ANSWER_BEHAV_CSA_AOV_NEVER"
+                        },
+                        {
+                            "id": "QUESTION_BEHAV_CSA_SEX_ACT",
+                            "answer_id": "ANSWER_BEHAV_CSA_SEX_ACT_NEVER"
+                        },
+                        {
+                            "id": "QUESTION_BEHAV_CSA_POV",
+                            "answer_id": "ANSWER_BEHAV_CSA_POV_NEVER"
+                        },
+                        {
+                            "id": "QUESTION_BEHAV_CSA_AAV",
+                            "answer_id": "ANSWER_BEHAV_CSA_AAV_NEVER"
+                        },
+                        {
+                            "id": "QUESTION_BEHAV_CSA_VIO",
+                            "answer_id": "ANSWER_BEHAV_CSA_VIO_NEVER"
+                        }
+                    ],
+                    "type": "checkpoint"
+                },
+                {
                     "id": "QUESTION_BEHAV_CSA_WHOM_HOW_OFTEN",
                     "description": "QUESTION_BEHAV_CSA_WHOM_HOW_OFTEN_DESCRIPTION",
                     "answers": [
