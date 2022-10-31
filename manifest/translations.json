@@ -5,7 +5,9 @@
         "faq": "FAQ",
         "about": "o nás",
         "imprint": "OTISK",
-        "privacy": "SOUKROMÍ"
+        "privacy": "SOUKROMÍ",
+        "online_selfhelp": "Online sezení",
+        "online_selfhelp_sub": "Začít nebo pokračovat"
     },
     {
         "name": "Deutsch (DE)",
@@ -13,7 +15,9 @@
         "faq": "FAQ",
         "about": "ÜBER UNS",
         "imprint": "IMPRESSUM",
-        "privacy": "DATENSCHUTZ"
+        "privacy": "DATENSCHUTZ",
+        "online_selfhelp": "ONLINE SELBSTHILFE",
+        "online_selfhelp_sub": "START oder WEITER"
     },
     {
         "name": "English (EN)",
@@ -21,7 +25,9 @@
         "faq": "FAQ",
         "about": "ABOUT",
         "imprint": "IMPRINT",
-        "privacy": "PRIVACY"
+        "privacy": "PRIVACY",
+        "online_selfhelp": "ONLINE SESSION",
+        "online_selfhelp_sub": "START or CONTINUE"
     },
     {
         "name": "Español (ES)",
@@ -29,7 +35,9 @@
         "faq": "FAQ",
         "about": "SOBRE NOSOTROS",
         "imprint": "INFORMACIÓN LEGA",
-        "privacy": "PRIVACIDAD"
+        "privacy": "PRIVACIDAD",
+        "online_selfhelp": "SESIÓN ONLINE",
+        "online_selfhelp_sub": "INICIAR o CONTINUAR"
     },
     {
         "name": "Français (FR)",
@@ -37,7 +45,9 @@
         "faq": "FAQ",
         "about": "QUI SOMMES NOUS?",
         "imprint": "MENTIONS LÉGALES",
-        "privacy": "PDP"
+        "privacy": "PDP",
+        "online_selfhelp": "SESSION D’AUTO-ASSISTANCE",
+        "online_selfhelp_sub": "COMMENCER ou CONTINUER"
     },
     {
         "name": "हिन्दी (HI)",
@@ -45,7 +55,9 @@
         "faq": "अकसर पूछे जाने वाले प्रश्न",
         "about": "के बारे में",
         "imprint": "इमप्रिंट",
-        "privacy": "निजता"
+        "privacy": "निजता",
+        "online_selfhelp": "ऑनलाइन सत्र",
+        "online_selfhelp_sub": "चालू करें या जारी रखें"
     },
     {
         "name": "Italiano (IT)",
@@ -53,7 +65,9 @@
         "faq": "FAQ",
         "about": "CHI SIAMO",
         "imprint": "RESPONSABILITÀ PER I CONTENUTI",
-        "privacy": "NORMATIVA SULLA PRIVACY"
+        "privacy": "NORMATIVA SULLA PRIVACY",
+        "online_selfhelp": "SESSIONE ONLINE",
+        "online_selfhelp_sub": "INIZIARE o CONTINUARE"
     },
     {
         "name": "मराठी (MR)",
@@ -61,7 +75,9 @@
         "faq": "वारंवार विचारले जाणारे प्रश्न",
         "about": "बद्दल",
         "imprint": "छाप",
-        "privacy": "गुप्तता"
+        "privacy": "गुप्तता",
+        "online_selfhelp": "ऑन लाईन सत्र",
+        "online_selfhelp_sub": "सुरू करा/चालू ठेवा"
     },
     {
         "name": "Português (PT)",
@@ -69,7 +85,9 @@
         "faq": "FAQ",
         "about": "SOBRE NÓS",
         "imprint": "AVISO LEGAL",
-        "privacy": "PROTEÇÃO DE DADOS"
+        "privacy": "PROTEÇÃO DE DADOS",
+        "online_selfhelp": "SESSÃO ONLINE",
+        "online_selfhelp_sub": "INICIAR ou CONTINUAR"
     },
     {
         "name": "Português-BR (PT)",
@@ -77,7 +95,9 @@
         "faq": "FAQ",
         "about": "SOBRE NÓS",
         "imprint": "AVISO LEGAL",
-        "privacy": "PROTEÇÃO DE DADOS"
+        "privacy": "PROTEÇÃO DE DADOS",
+        "online_selfhelp": "SESSÃO ONLINE",
+        "online_selfhelp_sub": "INICIAR ou CONTINUAR"
     },
     {
         "name": "Pусский (RU)",
@@ -85,7 +105,9 @@
         "faq": "FAQ",
         "about": "О НАС",
         "imprint": "ВЫХОДНЫЕ ДАННЫЕ",
-        "privacy": "КОНФИДЕНЦИАЛЬНОСТЬ"
+        "privacy": "КОНФИДЕНЦИАЛЬНОСТЬ",
+        "online_selfhelp": "ОНЛАЙН СЕССИЯ",
+        "online_selfhelp_sub": "НАЧАТЬ или ПРОДОЛЖИТЬ"
     },
     {
         "name": "తెలుగు (TE)",
@@ -93,7 +115,9 @@
         "faq": "తరచుగా అడుగు ప్రశ్నలు",
         "about": "మా గురించి",
         "imprint": "ముద్రించు",
-        "privacy": "గోప్యత"
+        "privacy": "గోప్యత",
+        "online_selfhelp": "ఆన్‌లైన్ సెషన్",
+        "online_selfhelp_sub": "ప్రారంభించండి లేదా కొనసాగించండి"
     },
     {
         "name": "Türk (TR)",
@@ -101,7 +125,9 @@
         "faq": "FAQ",
         "about": "BİZİM HAKKIMIZDA",
         "imprint": "KÜNYE",
-        "privacy": "PRİVACY"
+        "privacy": "PRİVACY",
+        "online_selfhelp": "Çevrimiçi öz-yönetim",
+        "online_selfhelp_sub": "Başla veya Devam et"
     },
     {
         "name": "(UR) اردو",
@@ -110,6 +136,8 @@
         "about": "ہمارے بارے میں",
         "imprint": "امپرنٹ",
         "privacy": "رازداری",
-        "rtl": true
+        "rtl": true,
+        "online_selfhelp": "آن لائن سیشن",
+        "online_selfhelp_sub": "شروع کریں یا جاری رکھیں"
     }
 ]
