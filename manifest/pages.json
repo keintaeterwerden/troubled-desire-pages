@@ -2261,6 +2261,150 @@
             "size": 2670,
             "title": "study",
             "lang": "ur"
+        },
+        {
+            "path": "vi-about.html",
+            "size": 4894,
+            "title": "about",
+            "lang": "vi"
+        },
+        {
+            "path": "vi-assessmvit.html",
+            "size": 2005,
+            "title": "assessmvit",
+            "lang": "vi"
+        },
+        {
+            "path": "vi-faq.html",
+            "size": 16521,
+            "title": "faq",
+            "lang": "vi"
+        },
+        {
+            "path": "vi-home.html",
+            "size": 13920,
+            "title": "home",
+            "lang": "vi"
+        },
+        {
+            "path": "vi-imprint.html",
+            "size": 6276,
+            "title": "imprint",
+            "lang": "vi"
+        },
+        {
+            "path": "vi-module-acceptance.html",
+            "size": 4598,
+            "title": "acceptance",
+            "lang": "vi-module"
+        },
+        {
+            "path": "vi-module-empathy.html",
+            "size": 2414,
+            "title": "empathy",
+            "lang": "vi-module"
+        },
+        {
+            "path": "vi-module-fantasy-and-behaviour.html",
+            "size": 2695,
+            "title": "fantasy-and-behaviour",
+            "lang": "vi-module"
+        },
+        {
+            "path": "vi-module-gviesis-of-sexual-attractions.html",
+            "size": 3928,
+            "title": "gviesis-of-sexual-attractions",
+            "lang": "vi-module"
+        },
+        {
+            "path": "vi-module-impulse-control.html",
+            "size": 5587,
+            "title": "impulse-control",
+            "lang": "vi-module"
+        },
+        {
+            "path": "vi-module-letter-of-a-victim.html",
+            "size": 16360,
+            "title": "letter-of-a-victim",
+            "lang": "vi-module"
+        },
+        {
+            "path": "vi-module-medical-treatmvit-options.html",
+            "size": 19700,
+            "title": "medical-treatmvit-options",
+            "lang": "vi-module"
+        },
+        {
+            "path": "vi-module-myth-buster.html",
+            "size": 5359,
+            "title": "myth-buster",
+            "lang": "vi-module"
+        },
+        {
+            "path": "vi-module-personal-triggers.html",
+            "size": 2239,
+            "title": "personal-triggers",
+            "lang": "vi-module"
+        },
+        {
+            "path": "vi-module-problematic-sexual-behaviours.html",
+            "size": 10495,
+            "title": "problematic-sexual-behaviours",
+            "lang": "vi-module"
+        },
+        {
+            "path": "vi-module-rose-tinted-glasses.html",
+            "size": 4254,
+            "title": "rose-tinted-glasses",
+            "lang": "vi-module"
+        },
+        {
+            "path": "vi-module-self-perception.html",
+            "size": 2068,
+            "title": "self-perception",
+            "lang": "vi-module"
+        },
+        {
+            "path": "vi-module-sexual-prefervice-structure.html",
+            "size": 8829,
+            "title": "sexual-prefervice-structure",
+            "lang": "vi-module"
+        },
+        {
+            "path": "vi-module-situation-analysis.html",
+            "size": 3724,
+            "title": "situation-analysis",
+            "lang": "vi-module"
+        },
+        {
+            "path": "vi-module-take-a-break.html",
+            "size": 2204,
+            "title": "take-a-break",
+            "lang": "vi-module"
+        },
+        {
+            "path": "vi-module-the-secret-of-well-being.html",
+            "size": 6233,
+            "title": "the-secret-of-well-being",
+            "lang": "vi-module"
+        },
+        {
+            "path": "vi-modules.html",
+            "size": 9220,
+            "title": "modules",
+            "lang": "vi"
+        },
+        {
+            "path": "vi-privacy.html",
+            "size": 15128,
+            "title": "privacy",
+            "lang": "vi"
+        },
+        {
+            "path": "vi-study.html",
+            "size": 2670,
+            "title": "study",
+            "lang": "vi"
         }
     ],
     "lang": [
@@ -4305,6 +4449,136 @@
                 {
                     "path": "ur-module-the-secret-of-well-being.html",
                     "size": 8077,
+                    "title": "the-secret-of-well-being"
+                }
+            ]
+        ],
+        [
+            "vi",
+            [
+                {
+                    "path": "vi-about.html",
+                    "size": 4894,
+                    "title": "about"
+                },
+                {
+                    "path": "vi-assessmvit.html",
+                    "size": 2005,
+                    "title": "assessmvit"
+                },
+                {
+                    "path": "vi-faq.html",
+                    "size": 16521,
+                    "title": "faq"
+                },
+                {
+                    "path": "vi-home.html",
+                    "size": 13920,
+                    "title": "home"
+                },
+                {
+                    "path": "vi-imprint.html",
+                    "size": 6276,
+                    "title": "imprint"
+                },
+                {
+                    "path": "vi-modules.html",
+                    "size": 9220,
+                    "title": "modules"
+                },
+                {
+                    "path": "vi-privacy.html",
+                    "size": 15128,
+                    "title": "privacy"
+                },
+                {
+                    "path": "vi-study.html",
+                    "size": 2670,
+                    "title": "study"
+                }
+            ]
+        ],
+        [
+            "vi-module",
+            [
+                {
+                    "path": "vi-module-acceptance.html",
+                    "size": 4598,
+                    "title": "acceptance"
+                },
+                {
+                    "path": "vi-module-empathy.html",
+                    "size": 2414,
+                    "title": "empathy"
+                },
+                {
+                    "path": "vi-module-fantasy-and-behaviour.html",
+                    "size": 2695,
+                    "title": "fantasy-and-behaviour"
+                },
+                {
+                    "path": "vi-module-gviesis-of-sexual-attractions.html",
+                    "size": 3928,
+                    "title": "gviesis-of-sexual-attractions"
+                },
+                {
+                    "path": "vi-module-impulse-control.html",
+                    "size": 5587,
+                    "title": "impulse-control"
+                },
+                {
+                    "path": "vi-module-letter-of-a-victim.html",
+                    "size": 16360,
+                    "title": "letter-of-a-victim"
+                },
+                {
+                    "path": "vi-module-medical-treatmvit-options.html",
+                    "size": 19700,
+                    "title": "medical-treatmvit-options"
+                },
+                {
+                    "path": "vi-module-myth-buster.html",
+                    "size": 5359,
+                    "title": "myth-buster"
+                },
+                {
+                    "path": "vi-module-personal-triggers.html",
+                    "size": 2239,
+                    "title": "personal-triggers"
+                },
+                {
+                    "path": "vi-module-problematic-sexual-behaviours.html",
+                    "size": 10495,
+                    "title": "problematic-sexual-behaviours"
+                },
+                {
+                    "path": "vi-module-rose-tinted-glasses.html",
+                    "size": 4254,
+                    "title": "rose-tinted-glasses"
+                },
+                {
+                    "path": "vi-module-self-perception.html",
+                    "size": 2068,
+                    "title": "self-perception"
+                },
+                {
+                    "path": "vi-module-sexual-prefervice-structure.html",
+                    "size": 8829,
+                    "title": "sexual-prefervice-structure"
+                },
+                {
+                    "path": "vi-module-situation-analysis.html",
+                    "size": 3724,
+                    "title": "situation-analysis"
+                },
+                {
+                    "path": "vi-module-take-a-break.html",
+                    "size": 2204,
+                    "title": "take-a-break"
+                },
+                {
+                    "path": "vi-module-the-secret-of-well-being.html",
+                    "size": 6233,
                     "title": "the-secret-of-well-being"
                 }
             ]
