@@ -2263,6 +2263,150 @@
             "lang": "ru"
         },
         {
+            "path": "ta-about.html",
+            "size": 11312,
+            "title": "about",
+            "lang": "ta"
+        },
+        {
+            "path": "ta-assessment.html",
+            "size": 3379,
+            "title": "assessment",
+            "lang": "ta"
+        },
+        {
+            "path": "ta-faq.html",
+            "size": 37449,
+            "title": "faq",
+            "lang": "ta"
+        },
+        {
+            "path": "ta-home.html",
+            "size": 25559,
+            "title": "home",
+            "lang": "ta"
+        },
+        {
+            "path": "ta-imprint.html",
+            "size": 11542,
+            "title": "imprint",
+            "lang": "ta"
+        },
+        {
+            "path": "ta-module-acceptance.html",
+            "size": 10061,
+            "title": "acceptance",
+            "lang": "ta-module"
+        },
+        {
+            "path": "ta-module-empathy.html",
+            "size": 4758,
+            "title": "empathy",
+            "lang": "ta-module"
+        },
+        {
+            "path": "ta-module-fantasy-and-behaviour.html",
+            "size": 5716,
+            "title": "fantasy-and-behaviour",
+            "lang": "ta-module"
+        },
+        {
+            "path": "ta-module-genesis-of-sexual-attractions.html",
+            "size": 8771,
+            "title": "genesis-of-sexual-attractions",
+            "lang": "ta-module"
+        },
+        {
+            "path": "ta-module-impulse-control.html",
+            "size": 13982,
+            "title": "impulse-control",
+            "lang": "ta-module"
+        },
+        {
+            "path": "ta-module-letter-of-a-victim.html",
+            "size": 41864,
+            "title": "letter-of-a-victim",
+            "lang": "ta-module"
+        },
+        {
+            "path": "ta-module-medical-treatment-options.html",
+            "size": 42303,
+            "title": "medical-treatment-options",
+            "lang": "ta-module"
+        },
+        {
+            "path": "ta-module-myth-buster.html",
+            "size": 11481,
+            "title": "myth-buster",
+            "lang": "ta-module"
+        },
+        {
+            "path": "ta-module-personal-triggers.html",
+            "size": 4719,
+            "title": "personal-triggers",
+            "lang": "ta-module"
+        },
+        {
+            "path": "ta-module-problematic-sexual-behaviours.html",
+            "size": 25061,
+            "title": "problematic-sexual-behaviours",
+            "lang": "ta-module"
+        },
+        {
+            "path": "ta-module-rose-tinted-glasses.html",
+            "size": 9004,
+            "title": "rose-tinted-glasses",
+            "lang": "ta-module"
+        },
+        {
+            "path": "ta-module-self-perception.html",
+            "size": 4365,
+            "title": "self-perception",
+            "lang": "ta-module"
+        },
+        {
+            "path": "ta-module-sexual-preference-structure.html",
+            "size": 20282,
+            "title": "sexual-preference-structure",
+            "lang": "ta-module"
+        },
+        {
+            "path": "ta-module-situation-analysis.html",
+            "size": 7919,
+            "title": "situation-analysis",
+            "lang": "ta-module"
+        },
+        {
+            "path": "ta-module-take-a-break.html",
+            "size": 4450,
+            "title": "take-a-break",
+            "lang": "ta-module"
+        },
+        {
+            "path": "ta-module-the-secret-of-well-being.html",
+            "size": 14598,
+            "title": "the-secret-of-well-being",
+            "lang": "ta-module"
+        },
+        {
+            "path": "ta-modules.html",
+            "size": 16281,
+            "title": "modules",
+            "lang": "ta"
+        },
+        {
+            "path": "ta-privacy.html",
+            "size": 33994,
+            "title": "privacy",
+            "lang": "ta"
+        },
+        {
+            "path": "ta-study.html",
+            "size": 2670,
+            "title": "study",
+            "lang": "ta"
+        },
+        {
             "path": "te-about.html",
             "size": 9967,
             "title": "about",
@@ -4737,6 +4881,136 @@
                 {
                     "path": "ru-module-the-secret-of-well-being.html",
                     "size": 8726,
+                    "title": "the-secret-of-well-being"
+                }
+            ]
+        ],
+        [
+            "ta",
+            [
+                {
+                    "path": "ta-about.html",
+                    "size": 11312,
+                    "title": "about"
+                },
+                {
+                    "path": "ta-assessment.html",
+                    "size": 3379,
+                    "title": "assessment"
+                },
+                {
+                    "path": "ta-faq.html",
+                    "size": 37449,
+                    "title": "faq"
+                },
+                {
+                    "path": "ta-home.html",
+                    "size": 25559,
+                    "title": "home"
+                },
+                {
+                    "path": "ta-imprint.html",
+                    "size": 11542,
+                    "title": "imprint"
+                },
+                {
+                    "path": "ta-modules.html",
+                    "size": 16281,
+                    "title": "modules"
+                },
+                {
+                    "path": "ta-privacy.html",
+                    "size": 33994,
+                    "title": "privacy"
+                },
+                {
+                    "path": "ta-study.html",
+                    "size": 2670,
+                    "title": "study"
+                }
+            ]
+        ],
+        [
+            "ta-module",
+            [
+                {
+                    "path": "ta-module-acceptance.html",
+                    "size": 10061,
+                    "title": "acceptance"
+                },
+                {
+                    "path": "ta-module-empathy.html",
+                    "size": 4758,
+                    "title": "empathy"
+                },
+                {
+                    "path": "ta-module-fantasy-and-behaviour.html",
+                    "size": 5716,
+                    "title": "fantasy-and-behaviour"
+                },
+                {
+                    "path": "ta-module-genesis-of-sexual-attractions.html",
+                    "size": 8771,
+                    "title": "genesis-of-sexual-attractions"
+                },
+                {
+                    "path": "ta-module-impulse-control.html",
+                    "size": 13982,
+                    "title": "impulse-control"
+                },
+                {
+                    "path": "ta-module-letter-of-a-victim.html",
+                    "size": 41864,
+                    "title": "letter-of-a-victim"
+                },
+                {
+                    "path": "ta-module-medical-treatment-options.html",
+                    "size": 42303,
+                    "title": "medical-treatment-options"
+                },
+                {
+                    "path": "ta-module-myth-buster.html",
+                    "size": 11481,
+                    "title": "myth-buster"
+                },
+                {
+                    "path": "ta-module-personal-triggers.html",
+                    "size": 4719,
+                    "title": "personal-triggers"
+                },
+                {
+                    "path": "ta-module-problematic-sexual-behaviours.html",
+                    "size": 25061,
+                    "title": "problematic-sexual-behaviours"
+                },
+                {
+                    "path": "ta-module-rose-tinted-glasses.html",
+                    "size": 9004,
+                    "title": "rose-tinted-glasses"
+                },
+                {
+                    "path": "ta-module-self-perception.html",
+                    "size": 4365,
+                    "title": "self-perception"
+                },
+                {
+                    "path": "ta-module-sexual-preference-structure.html",
+                    "size": 20282,
+                    "title": "sexual-preference-structure"
+                },
+                {
+                    "path": "ta-module-situation-analysis.html",
+                    "size": 7919,
+                    "title": "situation-analysis"
+                },
+                {
+                    "path": "ta-module-take-a-break.html",
+                    "size": 4450,
+                    "title": "take-a-break"
+                },
+                {
+                    "path": "ta-module-the-secret-of-well-being.html",
+                    "size": 14598,
                     "title": "the-secret-of-well-being"
                 }
             ]
