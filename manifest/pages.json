@@ -859,6 +859,150 @@
             "lang": "es"
         },
         {
+            "path": "fil-about.html",
+            "size": 4380,
+            "title": "about",
+            "lang": "fil"
+        },
+        {
+            "path": "fil-assessment.html",
+            "size": 1813,
+            "title": "assessment",
+            "lang": "fil"
+        },
+        {
+            "path": "fil-faq.html",
+            "size": 14833,
+            "title": "faq",
+            "lang": "fil"
+        },
+        {
+            "path": "fil-home.html",
+            "size": 12396,
+            "title": "home",
+            "lang": "fil"
+        },
+        {
+            "path": "fil-imprint.html",
+            "size": 5244,
+            "title": "imprint",
+            "lang": "fil"
+        },
+        {
+            "path": "fil-module-acceptance.html",
+            "size": 3945,
+            "title": "acceptance",
+            "lang": "fil-module"
+        },
+        {
+            "path": "fil-module-empathy.html",
+            "size": 1978,
+            "title": "empathy",
+            "lang": "fil-module"
+        },
+        {
+            "path": "fil-module-fantasy-and-behaviour.html",
+            "size": 2368,
+            "title": "fantasy-and-behaviour",
+            "lang": "fil-module"
+        },
+        {
+            "path": "fil-module-genesis-of-sexual-attractions.html",
+            "size": 3321,
+            "title": "genesis-of-sexual-attractions",
+            "lang": "fil-module"
+        },
+        {
+            "path": "fil-module-impulse-control.html",
+            "size": 5117,
+            "title": "impulse-control",
+            "lang": "fil-module"
+        },
+        {
+            "path": "fil-module-letter-of-a-victim.html",
+            "size": 13569,
+            "title": "letter-of-a-victim",
+            "lang": "fil-module"
+        },
+        {
+            "path": "fil-module-medical-treatment-options.html",
+            "size": 17439,
+            "title": "medical-treatment-options",
+            "lang": "fil-module"
+        },
+        {
+            "path": "fil-module-myth-buster.html",
+            "size": 4859,
+            "title": "myth-buster",
+            "lang": "fil-module"
+        },
+        {
+            "path": "fil-module-personal-triggers.html",
+            "size": 1937,
+            "title": "personal-triggers",
+            "lang": "fil-module"
+        },
+        {
+            "path": "fil-module-problematic-sexual-behaviours.html",
+            "size": 9674,
+            "title": "problematic-sexual-behaviours",
+            "lang": "fil-module"
+        },
+        {
+            "path": "fil-module-rose-tinted-glasses.html",
+            "size": 3683,
+            "title": "rose-tinted-glasses",
+            "lang": "fil-module"
+        },
+        {
+            "path": "fil-module-self-perception.html",
+            "size": 1900,
+            "title": "self-perception",
+            "lang": "fil-module"
+        },
+        {
+            "path": "fil-module-sexual-preference-structure.html",
+            "size": 7855,
+            "title": "sexual-preference-structure",
+            "lang": "fil-module"
+        },
+        {
+            "path": "fil-module-situation-analysis.html",
+            "size": 2928,
+            "title": "situation-analysis",
+            "lang": "fil-module"
+        },
+        {
+            "path": "fil-module-take-a-break.html",
+            "size": 1979,
+            "title": "take-a-break",
+            "lang": "fil-module"
+        },
+        {
+            "path": "fil-module-the-secret-of-well-being.html",
+            "size": 5542,
+            "title": "the-secret-of-well-being",
+            "lang": "fil-module"
+        },
+        {
+            "path": "fil-modules.html",
+            "size": 8362,
+            "title": "modules",
+            "lang": "fil"
+        },
+        {
+            "path": "fil-privacy.html",
+            "size": 13555,
+            "title": "privacy",
+            "lang": "fil"
+        },
+        {
+            "path": "fil-study.html",
+            "size": 2670,
+            "title": "study",
+            "lang": "fil"
+        },
+        {
             "path": "fr-about.html",
             "size": 4380,
             "title": "about",
@@ -3184,6 +3328,136 @@
                 {
                     "path": "es-module-the-secret-of-well-being.html",
                     "size": 5201,
+                    "title": "the-secret-of-well-being"
+                }
+            ]
+        ],
+        [
+            "fil",
+            [
+                {
+                    "path": "fil-about.html",
+                    "size": 4380,
+                    "title": "about"
+                },
+                {
+                    "path": "fil-assessment.html",
+                    "size": 1813,
+                    "title": "assessment"
+                },
+                {
+                    "path": "fil-faq.html",
+                    "size": 14833,
+                    "title": "faq"
+                },
+                {
+                    "path": "fil-home.html",
+                    "size": 12396,
+                    "title": "home"
+                },
+                {
+                    "path": "fil-imprint.html",
+                    "size": 5244,
+                    "title": "imprint"
+                },
+                {
+                    "path": "fil-modules.html",
+                    "size": 8362,
+                    "title": "modules"
+                },
+                {
+                    "path": "fil-privacy.html",
+                    "size": 13555,
+                    "title": "privacy"
+                },
+                {
+                    "path": "fil-study.html",
+                    "size": 2670,
+                    "title": "study"
+                }
+            ]
+        ],
+        [
+            "fil-module",
+            [
+                {
+                    "path": "fil-module-acceptance.html",
+                    "size": 3945,
+                    "title": "acceptance"
+                },
+                {
+                    "path": "fil-module-empathy.html",
+                    "size": 1978,
+                    "title": "empathy"
+                },
+                {
+                    "path": "fil-module-fantasy-and-behaviour.html",
+                    "size": 2368,
+                    "title": "fantasy-and-behaviour"
+                },
+                {
+                    "path": "fil-module-genesis-of-sexual-attractions.html",
+                    "size": 3321,
+                    "title": "genesis-of-sexual-attractions"
+                },
+                {
+                    "path": "fil-module-impulse-control.html",
+                    "size": 5117,
+                    "title": "impulse-control"
+                },
+                {
+                    "path": "fil-module-letter-of-a-victim.html",
+                    "size": 13569,
+                    "title": "letter-of-a-victim"
+                },
+                {
+                    "path": "fil-module-medical-treatment-options.html",
+                    "size": 17439,
+                    "title": "medical-treatment-options"
+                },
+                {
+                    "path": "fil-module-myth-buster.html",
+                    "size": 4859,
+                    "title": "myth-buster"
+                },
+                {
+                    "path": "fil-module-personal-triggers.html",
+                    "size": 1937,
+                    "title": "personal-triggers"
+                },
+                {
+                    "path": "fil-module-problematic-sexual-behaviours.html",
+                    "size": 9674,
+                    "title": "problematic-sexual-behaviours"
+                },
+                {
+                    "path": "fil-module-rose-tinted-glasses.html",
+                    "size": 3683,
+                    "title": "rose-tinted-glasses"
+                },
+                {
+                    "path": "fil-module-self-perception.html",
+                    "size": 1900,
+                    "title": "self-perception"
+                },
+                {
+                    "path": "fil-module-sexual-preference-structure.html",
+                    "size": 7855,
+                    "title": "sexual-preference-structure"
+                },
+                {
+                    "path": "fil-module-situation-analysis.html",
+                    "size": 2928,
+                    "title": "situation-analysis"
+                },
+                {
+                    "path": "fil-module-take-a-break.html",
+                    "size": 1979,
+                    "title": "take-a-break"
+                },
+                {
+                    "path": "fil-module-the-secret-of-well-being.html",
+                    "size": 5542,
                     "title": "the-secret-of-well-being"
                 }
             ]
